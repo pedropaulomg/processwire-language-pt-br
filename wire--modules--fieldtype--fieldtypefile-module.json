@@ -1,0 +1,93 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "O campo \"% s\" ainda n\u00e3o est\u00e1 pronto para usar e precisa ser configurado."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Configura\u00e7\u00f5es de ainda n\u00e3o ter sido cometido."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Reveja as defini\u00e7\u00f5es nesta p\u00e1gina e salvar mais uma vez (mesmo se voc\u00ea n\u00e3o mudar nada) para confirmar que aceit\u00e1-los."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "nome do arquivo"
+        },
+        "abc5c518b64936be795f070ed2adf84f": {
+            "text": "Extens\u00f5es de arquivos v\u00e1lidos"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Digite todas as extens\u00f5es de arquivos permitidas por este campo upload. Separe cada extens\u00e3o por um espa\u00e7o. Sem pontos nem v\u00edrgulas. Este campo n\u00e3o diferencia mai\u00fasculas de min\u00fasculas."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "arquivos m\u00e1ximo permitido"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0 = Sem limite"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "valor formatado"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "Selecione o tipo de valor que voc\u00ea quer este campo para fornecer quando acessado a partir da API no front-end do seu site."
+        },
+        "ffb520d31a51841782cf1cba617fc875": {
+            "text": "Quando a formata\u00e7\u00e3o de sa\u00edda est\u00e1 desligado, o valor \u00e9 sempre uma matriz (WireArray)."
+        },
+        "6e7e8b4097cb9c2651e291b007b8efad": {
+            "text": "Automatic (item \u00fanico ou nulo quando max arquivos definido como 1, variedade de itens de outra forma)"
+        },
+        "b93d9ddf4fe98458456fa4a117acf665": {
+            "text": "Variedade de itens"
+        },
+        "fd392fe52f347bbf7391f791b963416d": {
+            "text": "item \u00fanico (null se vazia)"
+        },
+        "6f836d738a527f80156286edc9d1f829": {
+            "text": "corda rendida de texto (que voc\u00ea fornece)"
+        },
+        "ad3f5d66e216a4f1b65654b8b70d592f": {
+            "text": "corda rendida de texto"
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Fornecer a corda rendido do texto que deseja a sa\u00edda como o valor deste campo. Se o campo cont\u00e9m v\u00e1rios itens, essa seq\u00fc\u00eancia ser\u00e1 processado v\u00e1rias vezes. Se o campo n\u00e3o cont\u00e9m itens, ser\u00e1 usada uma cadeia em branco."
+        },
+        "839047fe3f6109257399fe301ddb7912": {
+            "text": "Voc\u00ea pode usar qualquer um dos seguintes tags:"
+        },
+        "a1ede0a9a3c447cb83c7b6598dc556ff": {
+            "text": "O valor padr\u00e3o (quando vazio)"
+        },
+        "05ac72cc4df427baf9db44228a577ed7": {
+            "text": "Opcionalmente, selecione uma p\u00e1gina que ir\u00e1 conter o valor padr\u00e3o (neste mesmo campo). Voc\u00ea pode querer criar uma p\u00e1gina especificamente para esse fim."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "formatadores de texto (por descri\u00e7\u00f5es de arquivo)"
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "Selecione uma ou mais formatadores de texto (e sua ordem) que ser\u00e1 aplicado \u00e0 descri\u00e7\u00e3o arquivo quando formata\u00e7\u00e3o de sa\u00edda est\u00e1 ativo. O HTML Entity Encoder \u00e9 recomendado como um m\u00ednimo."
+        },
+        "3fc82a72e38b059cea88dcfbdaeafff8": {
+            "text": "Use tags?"
+        },
+        "3a37a820d95c0f598d6ea38f34716c31": {
+            "text": "Se marcado, o campo ir\u00e1 conter tamb\u00e9m uma op\u00e7\u00e3o para tags, al\u00e9m da descri\u00e7\u00e3o."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "inputField Tipo"
+        },
+        "23f8d89e38fb131310ab885bad04b966": {
+            "text": "O tipo de campo que vai ser utilizado para a recolha de entrada."
+        },
+        "9cdd19f51364783933fefd557c7cd644": {
+            "text": "Mudar isso somente se instru\u00eddo a faz\u00ea-lo por 3rd party instru\u00e7\u00f5es do m\u00f3dulo inputField."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "arquivos"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Campo que armazena um ou mais arquivos"
+        }
+    }
+}

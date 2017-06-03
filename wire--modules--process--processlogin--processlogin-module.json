@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Voc\u00ea est\u00e1 logado."
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Continuar"
+        },
+        "847549ae30061a6767a4b17c6fb4f53c": {
+            "text": "login realizado com sucesso"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Falha na autentica\u00e7\u00e3o"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "voc\u00ea deslogou"
+        },
+        "646d9e77201093e05380ead006df9975": {
+            "text": "Aviso de seguran\u00e7a:% s existe e deve ser eliminada o mais r\u00e1pido poss\u00edvel."
+        },
+        "4c429484c06b2d2901b3a582f300af56": {
+            "text": "Aten\u00e7\u00e3o, a sua \/site\/config.php especifica permiss\u00f5es de arquivos que s\u00e3o muito solto para muitos ambientes:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Leia \"Protegendo as permiss\u00f5es de arquivo\" para mais detalhes"
+        },
+        "00796cc045b871fe7b2867edef6aaaf7": {
+            "text": "Para suprimir este aviso, set $ config-> chmodWarn = false; no seu arquivo \/site\/config.php."
+        },
+        "efdf35a179a19ed3b3de0d3e7785f17d": {
+            "text": "Aviso: sua localidade servidor \u00e9 indefinido e pode causar problemas."
+        },
+        "25722c10f4f7abdc7297094d5d8f97e6": {
+            "text": "Por favor, traduzir a defini\u00e7\u00e3o de regi\u00e3o \u201cC\u201d para cada idioma para o local adequado em% s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Por exemplo, a defini\u00e7\u00e3o de localidade para US Ingl\u00eas poderia ser:% s"
+        },
+        "58b0cb95c27f394bd4c6970b563153dd": {
+            "text": "Por favor, adicione a \/site\/config.php arquivo (ajustar \u201c% s\u201d se necess\u00e1rio):"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Nome de Usu\u00e1rio"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Senha"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Entrar"
+        },
+        "d837cc5a72556c5e2abf4b9fe10ddef8": {
+            "text": "Entrar"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Esqueceu sua senha?"
+        }
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Inserir link"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Edit link"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Selecione a imagem"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Editar imagem"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "O seu texto de legenda aqui"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "imagem poupan\u00e7a"
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Inserir imagem"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Selecione Outro"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "Modo de linha CKEditor requer o m\u00f3dulo MarkupHTMLPurifier. Usando o modo normal em vez."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "sim"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "N\u00e3o"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Exemplo:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "Configura\u00e7\u00f5es ckeditor"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "CKEditor Toolbar"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Separar cada item da barra de ferramentas com uma v\u00edrgula. Agrupar itens por coloc\u00e1-los na mesma linha e usar um h\u00edfen \"-\" onde voc\u00ea quer um separador para aparecer dentro de um grupo. Se voc\u00ea quiser mais de uma linha da barra de ferramentas, separar cada linha com uma linha em branco."
+        },
+        "e8ddfb44ace2866e54880497acd251e3": {
+            "text": "Insira um hash \"#\" no in\u00edcio de uma linha se voc\u00ea quer que ele seja ignorado."
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Modo de editor"
+        },
+        "0e0da14bdea5e80af97115d05779bdc4": {
+            "text": "editor de regular"
+        },
+        "9f1f94725c69ad201b156e002476104c": {
+            "text": "Editor embutido *"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "Quando o modo de linha \u00e9 ativada, o editor n\u00e3o ser\u00e1 carregado at\u00e9 que voc\u00ea clique no texto. Isso \u00e9 mais r\u00e1pido e mais eficiente quando existem numerosos campos ckeditor na p\u00e1gina. No entanto, n\u00e3o pode suportar tantos recursos ou personaliza\u00e7\u00f5es editor como o modo regular."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "* O modo em linha requer que o m\u00f3dulo purificador de HTML est\u00e1 instalado (MarkupHTMLPurifier)."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "* O m\u00f3dulo purificador de HTML necess\u00e1rio est\u00e1 instalado."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "AVISO: n\u00e3o est\u00e1 actualmente instalado. Voc\u00ea deve instal\u00e1-lo antes de ativar o modo de linha."
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Contador \u00e9 suportado para campos ckeditor regular, mas n\u00e3o campos ckeditor inline."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "Use ACF?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Se estiver, o filtro de conte\u00fado CKEditor Avan\u00e7ada (ACF) estar\u00e1 ativo. Este filtro retira automaticamente qualquer marca\u00e7\u00e3o n\u00e3o reconhecido ou atributos do seu HTML. Recomendado."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "Use HTML Purifier?"
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Quando sim, conte\u00fado submetido \u00e9 executado atrav\u00e9s de [HTML Purifier] (http:\/\/htmlpurifier.org\/) para higieniza\u00e7\u00e3o. Este \u00e9 um deve ter ao usar CKEditor para usu\u00e1rios tanto no modo em linha ou n\u00e3o-confi\u00e1veis. Recomendado de qualquer maneira."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "Embelezar marca\u00e7\u00e3o Alterna"
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "Converter tags div para marcas de par\u00e1grafo"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "Remover marcas de par\u00e1grafo vazias"
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "Remover espa\u00e7os sem quebras (nbsp)"
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "Estas s\u00e3o op\u00e7\u00f5es de limpeza extra (al\u00e9m ACF e purificador de HTML) que temos encontrado \u00fatil em muitas situa\u00e7\u00f5es. Eles s\u00e3o aplicadas quando a p\u00e1gina \u00e9 salva. Verificar todos estes \u00e9 recomendado, a menos que voc\u00ea tem uma necessidade de deixar qualquer um destes atrav\u00e9s na marca\u00e7\u00e3o."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "formato Tag"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "lista de marcas seleccion\u00e1veis \u200b\u200bapresentadas na lista suspensa \"format\" ponto e v\u00edrgula separados."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "etiquetas de formato padr\u00e3o s\u00e3o:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Extra de conte\u00fado permitidas"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "regras de conte\u00fado permitidos op\u00e7\u00e3o CKEditor [extraAllowedContent] (http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent) por. Aplica-se apenas se a caixa de sele\u00e7\u00e3o \"Use ACF\" acima est\u00e1 marcada."
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "Voc\u00ea pode inserir v\u00e1rias regras, colocando cada um em sua pr\u00f3pria linha."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "O exemplo acima permitiria alt, src, largura e altura para atributos img etiquetas, com o atributo src sempre necess\u00e1ria."
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "Veja [detalhes] (http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) na documenta\u00e7\u00e3o CKEditor."
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "Os caminhos devem ser relativos \u00e0 sua raiz de instala\u00e7\u00e3o ProcessWire (ou seja, se o site est\u00e1 sendo executado a partir de um subdiret\u00f3rio, excluir essa parte)."
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Esta op\u00e7\u00e3o permite modificar a maneira que o texto e outros elementos aparecem no seu editor. Isto cobre como eles olham apenas no ambiente administrativo, e n\u00e3o tem nada a ver com o front-end do seu site."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "Por favor, veja nossos [instru\u00e7\u00f5es] (% s) sobre como usar isso."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Arquivo editor personalizado CSS (modo regular)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Arquivo editor personalizado CSS (modo em linha)"
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Estilos personalizados Editor de JS Definir"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "Esta op\u00e7\u00e3o permite especificar estilos personalizados para a sele\u00e7\u00e3o em seu editor. Ela exige que voc\u00ea tenha um \"Styles\" item na suas configura\u00e7\u00f5es da barra de ferramentas acima."
+        },
+        "16176bde1adfb16f43ed136db778416d": {
+            "text": "Por favor, veja nossos [instru\u00e7\u00f5es] () sobre como usar isso."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Se for utilizado, insira uma linha por of ** propriedade: valor **, ou utilizar uma string JSON."
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Op\u00e7\u00f5es de configura\u00e7\u00e3o customizado"
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "Utilize esta op\u00e7\u00e3o quando voc\u00ea quiser especificar configura\u00e7\u00f5es CKEditor configura\u00e7\u00e3o al\u00e9m daquelas dispon\u00edveis nesta tela."
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "Op\u00e7\u00f5es de configura\u00e7\u00e3o customizado falha na valida\u00e7\u00e3o JSON."
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Se preferir, essas configura\u00e7\u00f5es tamb\u00e9m podem ser definidos em um desses arquivos:"
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "para todos os campos ckeditor"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "apenas para esse campo CKEditor"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "plugins"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Plugins extras"
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "Os plug-ins seguintes foram encontrados. Marque a caixa ao lado de cada plugin que voc\u00ea gostaria de carregar."
+        },
+        "08b808bc7661d755f526f70fbcc07e44": {
+            "text": "Pelo menos um plugin deve ser verificado."
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "Para adicionar mais plugins, coloc\u00e1-los em ** \/ site \/ modules \/ InputfieldCKEditor \/ plugins \/ [nome] \/ **, substituindo ** [nome] ** com o nome do plugin."
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "recomendado"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "defini\u00e7\u00f5es% s"
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "configura\u00e7\u00f5es do plugin para \"% s\" falhou valida\u00e7\u00e3o JSON."
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "V\u00edrgula lista de plugins extras que CKEditor deve carregar separados."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "Exemplo: pwlink, pwimage, myplugin, anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Remover Plugins"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "V\u00edrgula lista de encaixes removidos CKEditor que n\u00e3o devem ser carregadas separadas."
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "CKEditor textarea editor de texto rico."
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "en"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "en"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Para ter valor padr\u00e3o pr\u00e9-seleccionado (s), entre os valores de op\u00e7\u00e3o (um por linha) abaixo."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Para ter um valor padr\u00e3o pr\u00e9-selecionado, insira o valor da op\u00e7\u00e3o abaixo."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valor padr\u00e3o"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Para a sele\u00e7\u00e3o de p\u00e1gina padr\u00e3o, o valor seria o n\u00famero da p\u00e1gina de identifica\u00e7\u00e3o."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "IMPORTANTE: O valor padr\u00e3o n\u00e3o \u00e9 usado a menos que seja necess\u00e1rio o campo (veja a caixa de sele\u00e7\u00e3o \u201cnecess\u00e1ria\u201d na tela)."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "op\u00e7\u00f5es"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Digite as op\u00e7\u00f5es que podem ser selecionados, um por linha."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Preceder a sua lista com uma op\u00e7\u00e3o em branco, digite apenas um \"=\" como a primeira op\u00e7\u00e3o de sinal de igual."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Para fazer uma op\u00e7\u00e3o selecionada, preced\u00ea-lo com um sinal de mais. Exemplo: + Meu Op\u00e7\u00e3o"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Para manter um valor e etiqueta separada, separe-os com um sinal de igual. Exemplo: valor = Meu Op\u00e7\u00e3o"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Para criar um (grupo de op\u00e7\u00e3o) optgroup recuar as op\u00e7\u00f5es no grupo com 3 ou mais espa\u00e7os."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "selecionar"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Sele\u00e7\u00e3o de um \u00fanico valor a partir de um menu suspenso selecione"
+        }
+    }
+}

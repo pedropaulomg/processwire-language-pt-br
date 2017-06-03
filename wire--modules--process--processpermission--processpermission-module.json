@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "179e210d56ed91c1da0ac7cff7234b21": {
+            "text": "Instale permiss\u00f5es do sistema predefinidos"
+        },
+        "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
+            "text": "Marque a caixa ao lado de cada permiss\u00e3o opcional que voc\u00ea gostaria de instalar."
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Instalar"
+        },
+        "934d155461a5e54ed0cfed45b64272ed": {
+            "text": "Adicionar uma nova permiss\u00e3o personalizada"
+        },
+        "baa866af125aefed417409d878f6d013": {
+            "text": "Adicionado permiss\u00e3o opcional:% s"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "permiss\u00f5es"
+        },
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "Gerenciar permiss\u00f5es do sistema"
+        }
+    }
+}

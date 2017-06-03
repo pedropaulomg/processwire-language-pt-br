@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Jogo de cor"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "Reno"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Cl\u00e1ssico"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Azul"
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "Imagens usu\u00e1rio"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "Para usar este recurso o seu modelo (s) usu\u00e1rio precisa ter um campo de imagem. Se o seu modelo (s) de usu\u00e1rio n\u00e3o tem um campo de imagem, o avatar ser\u00e1 o padr\u00e3o para um \u00edcone. Para adicionar um campo de imagem para o modelo de usu\u00e1rio padr\u00e3o para ir Configura\u00e7\u00e3o> Modelos> Filtros (Mostrar Sistema de Templates). O \"usu\u00e1rio\" modelo ir\u00e1 agora mostrar na lista. Se voc\u00ea tiver criado um modelo adicional do usu\u00e1rio \/ alternativo, voc\u00ea pode ativar esse recurso, adicionando um campo de imagem para esse modelo."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "campo de imagem para o modelo% s"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "N\u00e3o h\u00e1 campos de imagem atribu\u00eddos a este modelo"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Adicionado campo \"% s\" para campos edit\u00e1veis \u200b\u200bpelo usu\u00e1rio em seu perfil."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Nomes de exibi\u00e7\u00e3o do usu\u00e1rio"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "V\u00edrgula lista de campos separados para usar como o nome de exibi\u00e7\u00e3o no admin. (Exemplo: primeiro_nome, ultimo_nome)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Estes s\u00f3 podem ser campos de texto. Outros tipos de campo ser\u00e1 ignorado."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "do nome de exibi\u00e7\u00e3o para o modelo% s"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "\u00edcones"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Especificar \u00edcones para itens de navega\u00e7\u00e3o"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Top Navigation: Avisos"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Top Navigation: View P\u00e1gina"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Sair"
+        },
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "tema de administra\u00e7\u00e3o para ProcessWire 2.5+ por Tom Reno (Renobird)"
+        }
+    }
+}

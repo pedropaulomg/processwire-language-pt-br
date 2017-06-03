@@ -1,0 +1,123 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Escolha p\u00e1gina"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Digite uma URL, selecione uma p\u00e1gina, ou selecionar um arquivo para link:"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Liga\u00e7\u00e3o"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Link para URL"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Digite uma URL, endere\u00e7o de email, \u00e2ncora, ou digite a palavra (s) para encontrar uma p\u00e1gina."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Select Anchor"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "\u00c2ncoras encontradas no texto que voc\u00ea est\u00e1 editando."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Selecione P\u00e1gina"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Selecione Crian\u00e7a P\u00e1gina"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Este \u00e9 o mesmo que \"Selecionar P\u00e1gina\" acima, mas podem mais r\u00e1pido para usar se ligando para crian\u00e7as da p\u00e1gina atual."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Atributos"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "T\u00edtulo"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "O texto adicional para descrever link."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Alvo"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Onde este link ir\u00e1 abrir."
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "rel"
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Rela\u00e7\u00e3o de link para documentar."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Classe"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "classes adicionais que podem afetar a apar\u00eancia ou o comportamento do link."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Voc\u00ea pode personalizar os atributos dispon\u00edveis acima indicados em configura\u00e7\u00f5es do m\u00f3dulo% s."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "abra em uma nova janela"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "dizer os motores de busca n\u00e3o seguir"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Selecione o arquivo"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Mostrando arquivos na p\u00e1gina:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Selecione o arquivo desta p\u00e1gina que voc\u00ea deseja vincular."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Para selecionar um arquivo a partir de outra p\u00e1gina, clique em 'Selecionar p\u00e1gina' acima e escolha a p\u00e1gina que voc\u00ea deseja selecionar um arquivo de."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "op\u00e7\u00f5es de atributo"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Digite um valor de atributo por linha. O usu\u00e1rio ser\u00e1 capaz de selecionar estes como op\u00e7\u00f5es ao adicionar links. Para fazer uma op\u00e7\u00e3o selecionada por padr\u00e3o (para novos links), preced\u00ea-lo com um plus \"+\"."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "atributos External Link"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Especificar o padr\u00e3o seleccionado atribu\u00eddo que vai ser preenchido automaticamente quando uma liga\u00e7\u00e3o externa \u00e9 detectada."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Se usado, o valor deve ser aquele que voc\u00ea t\u00eam predefinidos acima."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Exemplo: Especificando ** nofollow ** faria liga\u00e7\u00f5es externas padr\u00e3o para n\u00e3o ser seguido pelos motores de busca."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Exemplo: Especificando ** _ blank ** faria liga\u00e7\u00f5es padr\u00e3o externo para abrir em uma nova janela."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "digite a URL para links de p\u00e1ginas"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Absoluto (padr\u00e3o)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "URLs relativos nas mesmas ramos \u00fanica"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "URLs relativos sempre"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "* Actualmente experimental"
+        }
+    }
+}

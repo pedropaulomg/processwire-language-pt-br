@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "p\u00e1gina por p\u00e1gina"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "-\u00danica consulta"
+        },
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "campo suprimido \"% 1 $ s\" dados em% 2 linha (s) d $ 3% de p\u00e1gina (s) $ d."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Erro campo apagar \"% 1 $ s\" de dados, linha 2% $ d (s), p\u00e1gina% d $ 3 (s)."
+        }
+    }
+}

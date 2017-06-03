@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "permiss\u00f5es"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Para descri\u00e7\u00f5es detalhadas dessas permiss\u00f5es, consulte o [refer\u00eancia permiss\u00f5es] (% s)."
+        },
+        "ae9a363b2dfa9181da7ffde8e37813b5": {
+            "text": "tachado"
+        },
+        "cea791d6258d032e4742a9a99f1ecf11": {
+            "text": "Verificando a permiss\u00e3o page-edit aqui n\u00e3o concede acesso de edi\u00e7\u00e3o a quaisquer p\u00e1ginas por conta pr\u00f3pria. Em vez disso, ele permite que voc\u00ea configure o acesso de edi\u00e7\u00e3o para este papel em defini\u00e7\u00f5es de acesso do modelo. A permiss\u00e3o de p\u00e1gina de edi\u00e7\u00e3o \u00e9 tamb\u00e9m o que permite aos usu\u00e1rios ver P\u00e1ginas da administra\u00e7\u00e3o. Esta permiss\u00e3o \u00e9 recomendada para todos os usu\u00e1rios administrativos."
+        },
+        "d923671ad010412a573db8ccdbddc911": {
+            "text": "Indica que a permiss\u00e3o pode ser opcionalmente adicionados ou revogada a partir de fun\u00e7\u00f5es de usu\u00e1rio em configura\u00e7\u00f5es de acesso modelo. Verificando a permiss\u00e3o permite-lo para todos os modelos edit\u00e1veis. Se voc\u00ea s\u00f3 deseja uma fun\u00e7\u00e3o de usu\u00e1rio para ter uma dessas permiss\u00f5es para p\u00e1ginas usando modelo (s) espec\u00edfico, voc\u00ea deve deix\u00e1-lo desmarcado aqui e em vez selecion\u00e1-lo em uma guia modelo de \"acesso\"."
+        },
+        "64a4d3473343a325080c311b47099be6": {
+            "text": "A p\u00e1gina-add e p\u00e1gina criar permiss\u00f5es s\u00f3 podem ser adicionados a partir das defini\u00e7\u00f5es de acesso do modelo e s\u00e3o mostrados aqui apenas para fins informativos."
+        },
+        "efc30c4ed12a9e95e4fad5ae9be115fb": {
+            "text": "Indica um modelo que adiciona a permiss\u00e3o. Clique para abrir uma janela para as configura\u00e7\u00f5es de acesso para esse modelo. Se o nome do modelo tem% s indica que a permiss\u00e3o \u00e9 adicionado ao modelo, mas que est\u00e1 sendo substitu\u00eddo por sua sele\u00e7\u00e3o aqui."
+        },
+        "dce4a957c0c6225be564be146d71b245": {
+            "text": "Igual ao acima, excepto que a permiss\u00e3o est\u00e1 a ser revogado por esse modelo (em vez de adicionado)."
+        },
+        "c6cc7e92b9fc348360b34c024086432c": {
+            "text": "Nome | descri\u00e7\u00e3o"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Adicionar as crian\u00e7as a p\u00e1ginas usando modelo"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Criar p\u00e1ginas usando modelo"
+        },
+        "faa5826bce6656df7f63cbeb5b2a85fe": {
+            "text": "Esta permiss\u00e3o s\u00f3 pode ser atribu\u00eddo pela configura\u00e7\u00f5es de acesso modelo."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(requeridos)"
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Esta permiss\u00e3o \u00e9 necess\u00e1ria para todas as fun\u00e7\u00f5es."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "aplica-se a todos os modelos edit\u00e1veis"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "% 1 $ s adicionado pelo modelo% 2 $ s, clique para editar"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "% 1 $ s revogada pelo modelo% 2 $ s, clique para editar"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Marcar essa caixa adiciona a permiss\u00e3o para todos os modelos edit\u00e1veis, mas essa permiss\u00e3o j\u00e1 est\u00e1 sendo aplicada separadamente por um ou mais modelos. Para manter as coisas arrumadas, sugerimos remover a permiss\u00e3o desses modelos antes de o activar para todos. Tem certeza de que deseja ativar-lo agora?"
+        },
+        "95c58584c58685c05c1a7cc706416455": {
+            "text": "Actualmente aplicado a quaisquer modelos"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Roles"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Gerenciar fun\u00e7\u00f5es de usu\u00e1rio e que permiss\u00f5es est\u00e3o ligados"
+        }
+    }
+}

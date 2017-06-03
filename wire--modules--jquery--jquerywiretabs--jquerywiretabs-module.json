@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Jquery\/JqueryWireTabs\/JqueryWireTabs.module",
+    "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
+    "translations": {
+        "d9f813a897729ef85bdc36fe6f9bc91a": {
+            "text": "Lembre-se de posi\u00e7\u00f5es de tabula\u00e7\u00e3o entre as solicita\u00e7\u00f5es?"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nunca"
+        },
+        "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
+            "text": "S\u00f3 depois de envio de formul\u00e1rio"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Sempre"
+        },
+        "4778324acb050ad87cef45324610ff81": {
+            "text": "jQuery fio Tabs Plugin"
+        },
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "Fornece um plug-in jQuery para gerar abas em ProcessWire."
+        }
+    }
+}

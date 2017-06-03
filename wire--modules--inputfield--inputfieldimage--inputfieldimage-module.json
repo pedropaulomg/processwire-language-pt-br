@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Colheita"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "varia\u00e7\u00f5es"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "dimens\u00f5es"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Tamanho do arquivo"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editar"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "arrastar e soltar em novas imagens acima"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "N \/ D"
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Este campo imagens podem ter altera\u00e7\u00f5es n\u00e3o salvas que poderiam ser perdidos ap\u00f3s esta a\u00e7\u00e3o. Por favor, salve antes de recorte, ou clique duas vezes no bot\u00e3o continuar assim mesmo."
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "cair em novo arquivo de imagem para substituir"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "H\u00e1 mais velhas \/ qualidade imagens de baixa de visualiza\u00e7\u00e3o em miniatura acima - marque esta caixa para recri\u00e1-las."
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "imagem inv\u00e1lido"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Imagem de% s n\u00e3o atende aos requisitos m\u00ednimos de tamanho"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Imagem de% s excede o tamanho m\u00e1ximo permitido"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Imagem redimensionada para caber as dimens\u00f5es m\u00e1ximas permitidas"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "N\u00e3o edit\u00e1vel."
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "modo de grade de imagem padr\u00e3o"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "Na admin, a lista de imagens ser\u00e1 exibido neste modo por padr\u00e3o. O usu\u00e1rio pode alter\u00e1-lo a qualquer momento, clicando nos \u00edcones no canto superior direito do campo."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Se voc\u00ea j\u00e1 usou recentemente neste campo imagens, voc\u00ea ter\u00e1 que limpar os cookies antes de ver quaisquer altera\u00e7\u00f5es a esta defini\u00e7\u00e3o."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "imagens grade quadrada"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "imagens de grade proporcionais"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "lista vertical (detalhado)"
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Max dimens\u00f5es da imagem"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Opcionalmente introduzir a largura e \/ ou altura de imagens enviadas m\u00e1x. Se especificado, as imagens ser\u00e3o redimensionadas em tempo de carregamento quando exceder a largura m\u00e1xima ou altura. O redimensionamento \u00e9 realizada em tempo de upload, e, portanto, n\u00e3o afeta quaisquer imagens no sistema, ou imagens adicionadas por meio da API."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Insira o valor em n\u00famero de pixels ou deixe em branco para sem limite."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "largura m\u00e1xima de imagens carregadas"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Altura m\u00e1xima de imagens carregadas"
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Recusar imagens que excedam as dimens\u00f5es max?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Se marcada, as imagens que excedem max largura \/ altura ser\u00e1 recusada em vez de redimensionada."
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "M\u00ednimo Dimens\u00f5es da Imagem"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Opcionalmente introduzir a largura e \/ ou altura de imagens enviadas m\u00ednimo. Se especificado, imagens que n\u00e3o atendam a esses m\u00ednimos ser\u00e1 recusada."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "largura Min para imagens carregadas"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "altura Min para imagens carregadas"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Trocar min \/ max dimens\u00f5es para imagens na vertical?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Se marcada, m\u00ednima largura \/ altura e dimens\u00f5es m\u00e1ximas de largura \/ altura vai ser permutado para imagens na vertical para acomodar a rela\u00e7\u00e3o de aspecto diferente."
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Recriado todas as miniaturas legados"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "imagens"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Um ou mais imagem uploads (classific\u00e1vel)"
+        }
+    }
+}

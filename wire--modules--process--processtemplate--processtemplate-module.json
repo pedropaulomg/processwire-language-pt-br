@@ -1,0 +1,978 @@
+{
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplate.module",
+    "textdomain": "wire--modules--process--processtemplate--processtemplate-module",
+    "translations": {
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "sim"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "N\u00e3o"
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "Either \/ n\u00e3o importa"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Voc\u00ea tem certeza?"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exportar"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importar"
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "untagged"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "filtros"
+        },
+        "1ada25378d2f81d6394cb823cda822ad": {
+            "text": "Filtrar por campo"
+        },
+        "602717d1b0adbf6ff41366d6371e375d": {
+            "text": "Escolha um campo e apenas modelos usando esse campo ser\u00e1 mostrado."
+        },
+        "3f8255a0588417dee11d58e2b92c59b4": {
+            "text": "Modelos com campo:% s"
+        },
+        "487cc58bb37a22e2cfc4d04c92267fee": {
+            "text": "Mostrar modelos de sistema?"
+        },
+        "19a3fc9f896f1ef86f69f782be122c37": {
+            "text": "Por padr\u00e3o, o sistema \/ templates internos n\u00e3o s\u00e3o mostradas. Clique em 'Sim' para t\u00ea-los inclu\u00eddo na lista de modelos abaixo."
+        },
+        "86ec8350e4740a4cc47328ee7c984d40": {
+            "text": "Adicionar novos modelos"
+        },
+        "6703f01fb2662a497ae2d29163ed68c2": {
+            "text": "Nome j\u00e1 est\u00e1 em uso"
+        },
+        "ff6be05386ed6fc79ccf24b5eb9432ac": {
+            "text": "modelo e fieldgroup Adicionado:% s"
+        },
+        "0dea25b9c7f4d4afbe59f7f9b2741d29": {
+            "text": "Modelos encontrados em:% s"
+        },
+        "66c97c50054d31c710d96c0073ec4c78": {
+            "text": "Os seguintes novos modelos foram encontrados. Marque a caixa ao lado de cada modelo que voc\u00ea deseja adicionar."
+        },
+        "f392144a3652c7daf4ee4f0377497709": {
+            "text": "N\u00e3o h\u00e1 novos arquivos de modelo foram encontrados em:% s"
+        },
+        "01582c3e65dc06c2cf178a0bdce2b4dd": {
+            "text": "Criar um novo modelo sem um arquivo"
+        },
+        "524fe63ba99d979ba854d38529c9abc1": {
+            "text": "Se voc\u00ea quiser criar um novo modelo, embora haja atualmente nenhum arquivo associado com ele, digite o nome do modelo aqui."
+        },
+        "0e2511c51c799246bc640afd3b4cc07b": {
+            "text": "Voc\u00ea pode digitar v\u00e1rios nomes de modelos, separando cada um com um espa\u00e7o."
+        },
+        "088244ca195e0e9e57bd38027406b66b": {
+            "text": "N\u00e3o incluem uma extens\u00e3o de arquivo"
+        },
+        "24a144ffc0e6aae299d3a23c2152e7fa": {
+            "text": "Editar Modelo:% s"
+        },
+        "545d923164ab07a1b18e48e526f51259": {
+            "text": "P\u00e1ginas que usam este modelo n\u00e3o s\u00e3o vis\u00edveis porque o arquivo de modelo (% s) n\u00e3o existe [no-file]."
+        },
+        "b5b8f523cefee8895f19a223c85f431f": {
+            "text": "Gerenciar o acesso template"
+        },
+        "7a91f878f0e4c02c502a8d0583b0c6be": {
+            "text": "uso opcional e coloca\u00e7\u00e3o na hierarquia da p\u00e1gina"
+        },
+        "501dba7089bbfb45c7c1a733477bcdc5": {
+            "text": "configura\u00e7\u00f5es opcionais para URLs de p\u00e1ginas usando este modelo"
+        },
+        "23f23b8b2e4cc5c8517468a6d001b3fd": {
+            "text": "O cache de sa\u00edda"
+        },
+        "244561833b6ce4599891cf9e33fb33d6": {
+            "text": "configura\u00e7\u00f5es do modelo avan\u00e7ados opcionais"
+        },
+        "5dd56426fff182e0610cc0bf9d389437": {
+            "text": "configura\u00e7\u00f5es do modelo espec\u00edficos do sistema"
+        },
+        "bef497d3a07d13fedba143fc543e606d": {
+            "text": "campos de importa\u00e7\u00e3o de outro modelo"
+        },
+        "0d4ca2b82aa1381b25348c8509009839": {
+            "text": "excluir modelo"
+        },
+        "a6cdf6c364498c02bdaa499492780445": {
+            "text": "Um r\u00f3tulo opcional para descrever este modelo."
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Uso"
+        },
+        "f89bc18e7afb05b3ac03300bec624b63": {
+            "text": "confirmar a elimina\u00e7\u00e3o"
+        },
+        "833914963b9e76310195f43171e185a6": {
+            "text": "Este modelo n\u00e3o pode ser exclu\u00eddo"
+        },
+        "f7c9b4730186dec196b0eaf4be43f530": {
+            "text": "modelos de sistema n\u00e3o pode ser exclu\u00eddo"
+        },
+        "890f96a8e633d19ff700b360949982af": {
+            "text": "Observe que a exclus\u00e3o do modelo s\u00f3 remove-lo do banco de dados, ele n\u00e3o excluir o arquivo de modelo no disco."
+        },
+        "0968f67bf85224770756cc134016da2b": {
+            "text": "Por padr\u00e3o, cada modelo gere o seu pr\u00f3prio grupo de campos. Se voc\u00ea quer ter este modelo de usar os campos de outro modelo, selecione-o aqui."
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(padr\u00e3o)"
+        },
+        "b6b0afb901a4db116f6b8403cf434280": {
+            "text": "Para sua refer\u00eancia, esta \u00e9 uma lista dos campos utilizados por este modelo. Este modelo fica com o campos do '% s' template."
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "Defina os campos que s\u00e3o usados \u200b\u200bpor este modelo. Voc\u00ea tamb\u00e9m pode arrastar e soltar campos para a ordem desejada ou [criar um novo campo] (..\/ campo \/ adicionar)."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Adicionar campo"
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Feche e Adicionar"
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "Para configurar quais campos um usu\u00e1rio pode editar em seu perfil, consulte o [configura\u00e7\u00f5es do m\u00f3dulo de perfil] (% s)."
+        },
+        "71bb941583eef6e3e5ed3eaad39cc315": {
+            "text": "campos duplicados usados \u200b\u200bpor outro modelo"
+        },
+        "0a18045f3c2d800b18fc146d3f16b97e": {
+            "text": "Se voc\u00ea deseja duplicar campos usados \u200b\u200bpor um outro modelo, selecione-o aqui. Os campos j\u00e1 presentes neste modelo ser\u00e1 deixado sozinho."
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "Estado cache"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Desativado"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "Ativado (cache de modelo)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "Activado (ProCache, configurado aqui)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "P\u00e1ginas usando este modelo est\u00e1 em cache na ProCache, mas configurada directamente no ProCache. Para configurar as defini\u00e7\u00f5es ProCache para este modelo aqui, escolha a op\u00e7\u00e3o ProCache acima."
+        },
+        "0f62a8abd379b96004d8118b0d9a2399": {
+            "text": "Para armazenar em cache a sa\u00edda deste modelo, insira o tempo (em segundos) que a sa\u00edda deve ser armazenada em cache. O cache pode ajudar significativamente com a p\u00e1gina tempo de render em p\u00e1ginas de recurso-pesado. Mas cache n\u00e3o deve ser utilizado em modelos que precisam processar constantemente mudando de dados, como a partir de formas ou sess\u00f5es. Observe tamb\u00e9m que os segmentos de URL s\u00e3o cachable, mas GET e POST Vars n\u00e3o s\u00e3o."
+        },
+        "e71a260bc8db16e30f2dedeba9440a25": {
+            "text": "Por exemplo: 60 = 1 minuto, 600 = 10 minutos, 3600 = 1 hora, 86400 = 1 dia, 1 semana = 604800, 2419200 = 1 m\u00eas."
+        },
+        "b0349bb2d18f943c6aa52c5c038850a0": {
+            "text": "Se estiver usando [ProCache] (% s) n\u00e3o h\u00e1 necessidade de usar a configura\u00e7\u00e3o do cache aqui."
+        },
+        "fa15c33b6ad59f9f8183f1b3c68ab082": {
+            "text": "P\u00e1gina Save \/ Expira\u00e7\u00e3o de cache"
+        },
+        "7ff5f438d6cc10c5f333e97329c72daa": {
+            "text": "Quando uma p\u00e1gina usando este modelo \u00e9 salvo, o que deve acontecer com o cache?"
+        },
+        "fe4a994d36e75cfb408bdf0b5dd7af09": {
+            "text": "Limpar cache para a p\u00e1gina salva somente (padr\u00e3o)"
+        },
+        "e83d2e6601e2f724159034563ad4fde0": {
+            "text": "Limpar cache para todo o site *"
+        },
+        "3bba41317ab3da84fd247ebaa32ea821": {
+            "text": "Limpar cache para a p\u00e1gina salva e os pais (incluindo homepage)"
+        },
+        "f841b3150a439220f669e77e12ea0bda": {
+            "text": "Limpar cache para a p\u00e1gina salva e outras p\u00e1ginas que eu especificar ..."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Limpar cache para a p\u00e1gina salva e outras p\u00e1ginas selector correspondentes ..."
+        },
+        "cd88ce600576fcc630878b5e374835a5": {
+            "text": "Fazer nada"
+        },
+        "cac7796ca8e88c31d8b23733cb7aaf03": {
+            "text": "* Para maximizar o desempenho, os arquivos de cache s\u00e3o todos expirado como um grupo, em vez de apuradas individualmente."
+        },
+        "7ebdcad871020558be972578bdf46a10": {
+            "text": "Especifique as outras p\u00e1ginas que deveria ter seu cache desmatadas"
+        },
+        "501a09415d30cab1819195e5566a0c0d": {
+            "text": "Quando as p\u00e1ginas usando este modelo s\u00e3o salvos, seus arquivos de cache ser\u00e3o apagados. Selecione as outras p\u00e1ginas que tamb\u00e9m deve ter seus arquivos de cache apuradas abaixo."
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "Selector de encontrar as outras p\u00e1ginas que deveria ter seu cache desmatadas."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Salve este modelo e, em seguida, voltar aqui para configurar o selector."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "selector de expira\u00e7\u00e3o de cache"
+        },
+        "d6b522c2ed20093505dfa63be2ba0454": {
+            "text": "Cache ao renderizar p\u00e1ginas para esses usu\u00e1rios"
+        },
+        "787f82b093280bcb87901ea228d7b083": {
+            "text": "Apenas os clientes"
+        },
+        "8a8e700d3ef2487708d671db81ed8ce3": {
+            "text": "Os h\u00f3spedes e usu\u00e1rios logados"
+        },
+        "8d5e98c594942c49efea1af30c90efe5": {
+            "text": "Note que o cache \u00e9 sempre desativada para p\u00e1ginas onde o usu\u00e1rio tem acesso de edi\u00e7\u00e3o, independentemente do que voc\u00ea selecionar aqui."
+        },
+        "d1db89af3df82862d45c9755e9aa0075": {
+            "text": "vari\u00e1veis \u200b\u200bGET de cache desativando"
+        },
+        "ad63801f30d93a9f54257aa637d5ed89": {
+            "text": "vari\u00e1veis \u200b\u200bPOST de cache desativando"
+        },
+        "dcc07e185c0c88ca7c4439fbaa56e4cb": {
+            "text": "Quando sua sa\u00edda do template \u00e9 armazenada em cache, as vari\u00e1veis \u200b\u200bdeste tipo s\u00e3o ignorados por padr\u00e3o. Opcionalmente, voc\u00ea pode especificar um ou mais nomes de vari\u00e1veis \u200b\u200bque ir\u00e1 desativar o cache para essa solicita\u00e7\u00e3o, fazendo com que a p\u00e1gina a ser processada de cache sans."
+        },
+        "f32d42af055544c46a989bceee851733": {
+            "text": "Opcionalmente introduzir um ou mais nomes de vari\u00e1veis. Se entrar mais de um, separe cada por um espa\u00e7o."
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Para desativar cache quando qualquer vari\u00e1vel est\u00e1 presente, digite apenas um asterisco: * (recomendado)"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tag"
+        },
+        "5cb36b26303f4abb0dea36f9bb96887f": {
+            "text": "Se voc\u00ea quiser visualmente grupo este modelo com outros na lista de modelos, digite uma palavra-tag. Digite a mesma marca em outros modelos que voc\u00ea deseja agrupar com. Para especificar v\u00e1rias tags, separe cada um com um espa\u00e7o. Uso de tags pode ser \u00fatil se o seu site tem um grande n\u00famero de modelos."
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Cada tag deve ser uma palavra (hifeniza\u00e7\u00e3o \u00e9 bom)."
+        },
+        "9238cda6a9c91cd5cc846791a49ba3ab": {
+            "text": "Para fazer uma tag desabou na lista de modelos, preceder um h\u00edfen a ele, como este: -Ol\u00e1"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Opcionalmente, substituir o r\u00f3tulo aba \"Conte\u00fado\" default."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Opcionalmente, substituir o \"Children\" etiqueta de guia padr\u00e3o."
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Opcionalmente, substituir o \"Nome\" etiqueta de propriedade padr\u00e3o."
+        },
+        "f9c716f29bd379e49e4485ea8afd1556": {
+            "text": "renomeie Template"
+        },
+        "f1a2199b60e95006b3d66f9eb5a9e621": {
+            "text": "O nome usado para se referir a este modelo. Este \u00e9 tamb\u00e9m o nome de arquivo padr\u00e3o do arquivo de modelo (com .php extens\u00e3o) in \/ site \/ templates \/."
+        },
+        "04f22e1af73c705475a4cc38a5c89ae3": {
+            "text": "O nome do arquivo template \u00e9 grav\u00e1vel e ser\u00e1 renomeado tamb\u00e9m."
+        },
+        "8d5a5a7af810d2ef80cf02082615c9dd": {
+            "text": "O arquivo de modelo n\u00e3o \u00e9 grav\u00e1vel para que voc\u00ea ter\u00e1 que renome\u00e1-lo manualmente (instru\u00e7\u00f5es ser\u00e3o fornecidas ap\u00f3s salvar)."
+        },
+        "e1f4b06346cdbed5063a5e42a9593f59": {
+            "text": "Entre com qualquer combina\u00e7\u00e3o de letras (a-z), os n\u00fameros de (0-9), h\u00edfens ou sublinhados (sem espa\u00e7os). N\u00e3o inclua a extens\u00e3o .php."
+        },
+        "30281e3b2fa626d5f52c833c541c84ac": {
+            "text": "Duplicar \/ clonar esse modelo?"
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Digite o nome do novo modelo que deseja criar. O clone ser\u00e1 criado quando voc\u00ea salvar. Se o seu diret\u00f3rio de modelos \u00e9 grav\u00e1vel e o modelo tem um arquivo, ele tamb\u00e9m ser\u00e1 clonado."
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "a\u00e7\u00e3o Campo obrigat\u00f3rio"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Que medidas devem ser tomadas quando uma p\u00e1gina j\u00e1 publicada \u00e9 salva com um campo obrigat\u00f3rio faltando?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "user Alerta do erro (padr\u00e3o)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Restaurar valor anterior (quando dispon\u00edvel)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Despublicar a p\u00e1gina (quando permitido)"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "\u00cdcone"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "Escolha um \u00edcone que ser\u00e1 associado a este modelo e p\u00e1ginas que utilizam este modelo (na administra\u00e7\u00e3o)."
+        },
+        "7328590933d4202f89220d6b435b0e8f": {
+            "text": "Lista de campos a serem exibidos na lista p\u00e1gina Admin"
+        },
+        "61b468c296e8ff1ed4c18bd86392e1cc": {
+            "text": "Insira um ou mais nomes de campos atribu\u00eddos a este modelo para exibir na lista de p\u00e1gina de administra\u00e7\u00e3o ao listar p\u00e1ginas usando este modelo. Se deixado em branco, os campos especificados na configura\u00e7\u00e3o do m\u00f3dulo ProcessPageList ser\u00e3o utilizados em vez disso. Os nomes dos campos devem ser separados por um espa\u00e7o e \/ ou v\u00edrgula. campos em branco ser\u00e3o ignoradas."
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Voc\u00ea tamb\u00e9m pode usar seu pr\u00f3prio formato (e qualquer pontua\u00e7\u00e3o \/ caracteres adicionais), especificando os nomes de campo entre par\u00eanteses, ou seja, {name}, {} categories.title, etc."
+        },
+        "b1a8a50c7276f36aeca631c5f4d18c9d": {
+            "text": "Voc\u00ea pode inserir um ou mais dos seguintes campos:"
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Para especificar uma propriedade de um campo, cercar o campo entre par\u00eanteses e digite {field_name.property}, por exemplo: {categories.title}."
+        },
+        "8f0944546d02e3fd7de73e9418494b3b": {
+            "text": "modelo Alterna"
+        },
+        "249d044ac9d6d23ba96d1515cc4717e4": {
+            "text": "Geralmente, voc\u00ea deve deixar essas alterna desmarcada a menos que voc\u00ea tenha uma necessidade espec\u00edfica coberto aqui."
+        },
+        "b919a5aafc6740109c0c58fe51916178": {
+            "text": "N\u00e3o permita que as p\u00e1ginas para mudar seu modelo?"
+        },
+        "6bb5af6d5240fb8b1d720a7e5bec4497": {
+            "text": "Quando marcada, as p\u00e1ginas usando este modelo n\u00e3o ser\u00e1 capaz de mudar para outro modelo."
+        },
+        "29f47bc61ea7a6f45ee3d36da3a3feff": {
+            "text": "N\u00e3o permita p\u00e1ginas in\u00e9ditas"
+        },
+        "94c9fe9ddbd9380ceb726bef40232ea3": {
+            "text": "Quando marcada, as p\u00e1ginas que utilizam este modelo s\u00f3 pode existir em um estado publicado e pode n\u00e3o ser in\u00e9ditos."
+        },
+        "6064635b0dec3189859052c02adc0fc5": {
+            "text": "Permitir que o 'usu\u00e1rio criado' para ser mudado nas p\u00e1ginas?"
+        },
+        "16a657e6bf4576ef101f1bcca129694c": {
+            "text": "Quando marcada, as p\u00e1ginas usando este modelo ter\u00e1 uma op\u00e7\u00e3o para mudar o 'criado pelo usu\u00e1rio' (somente para superusu\u00e1rios). Ele tamb\u00e9m ir\u00e1 permitir que os $ page-> createdUser ou US $ page-> campos created_users_id para ser salvo por meio da API."
+        },
+        "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
+            "text": "N\u00e3o permita que as p\u00e1ginas a ser movido?"
+        },
+        "518270f594c5488ff1f8de2ac0429f0e": {
+            "text": "Se voc\u00ea quer evitar p\u00e1ginas usando este modelo de ser movido (mudando pai) marque esta caixa."
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Desativar o suporte multi-idioma para esse modelo?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Quando marcada, as p\u00e1ginas que utilizam este modelo s\u00f3 usar\u00e1 o idioma padr\u00e3o."
+        },
+        "8a08c3b7f2922be4ad8e59744781b796": {
+            "text": "Formato Nome da p\u00e1gina"
+        },
+        "8a396099e3eecefcbbbbac1715a464de": {
+            "text": "Opcionalmente especificar um formato para nomes de p\u00e1gina usado quando uma nova p\u00e1gina \u00e9 adicionada. Isso permite que o \"P\u00e1gina Adicionar\" passo a ser ignorado quando a adi\u00e7\u00e3o de uma nova p\u00e1gina. Para funcionar, o modelo utilizado pela p\u00e1gina pai (s) deve definir este modelo (% s) como a \u00fanica permitida para crian\u00e7as (veja a aba \"fam\u00edlia\" no modelo usado pelo pai)."
+        },
+        "6058394e74833c97153b0edaec2fb369": {
+            "text": "Voc\u00ea pode entrar em qualquer texto que voc\u00ea gosta aqui. Quando uma nova p\u00e1gina \u00e9 criada e o nome n\u00e3o \u00e9 \u00fanico, um n\u00famero incremento ser\u00e1 anexado ao final do mesmo at\u00e9 que ele \u00e9 \u00fanico."
+        },
+        "026e4114c3bd578141d593edfdcba4b6": {
+            "text": "** Se voc\u00ea quer que seus nomes de p\u00e1gina para derivar seu valor a partir do campo de t\u00edtulo: ** entrar \"t\u00edtulo\" acima (sem as aspas)."
+        },
+        "cde43753349041653da0d29cc52a15fa": {
+            "text": "** Se voc\u00ea quer que seus nomes de p\u00e1gina para refletir a data \/ hora de cria\u00e7\u00e3o: ** digitar um [formato de data] (http:\/\/www.php.net\/manual\/en\/function.date.php) acima. Seu formato de data deve incluir pelo menos um caractere n\u00e3o-alfanum\u00e9rico (como uma barra \"\/\" ou pontos \":\" por exemplo), a fim de ser reconhecido como um formato de data. Exemplo: \"Y \/ m \/ d H: i: s\" resultaria em nomes de p\u00e1gina como: \"2014-10-30-12-39-01\". Como voc\u00ea pode ver, caracteres n\u00e3o alfanum\u00e9ricos ainda presentes em uma data formatada s\u00e3o convertidos em h\u00edfens."
+        },
+        "dc8ce981931b1e9b1f784c57730a67c1": {
+            "text": "Por favor, note que todas essas configura\u00e7\u00f5es do sistema s\u00e3o destinados ao desenvolvimento do sistema ProcessWire (n\u00e3o desenvolvimento local). Us\u00e1-los em seu pr\u00f3prio risco."
+        },
+        "3920cc9a9feba6acfae659a68688f13c": {
+            "text": "Flag sistema?"
+        },
+        "e92f2f24e876c414f6cca0e1ed3bfa73": {
+            "text": "Se marcada, este modelo ser\u00e1 definida como para o sistema e n\u00e3o ser\u00e1 apag\u00e1veis. Uma vez que o sinalizador do sistema \u00e9 activado, ele s\u00f3 pode ser removido por meio do API (flagSystemOverride)."
+        },
+        "0b81495a48a77b7743e0a20fa02e6af9": {
+            "text": "Nome da p\u00e1gina Classe"
+        },
+        "cfab2e7a62a89871220c3ebac5367331": {
+            "text": "O nome da classe PHP que ser\u00e1 usado para criar p\u00e1ginas que usam esse modelo. Por padr\u00e3o p\u00e1ginas ser\u00e1 criado a partir da classe Page. Voc\u00ea deve deixar em branco a menos que voc\u00ea tem uma outra classe derivada de p\u00e1gina que voc\u00ea deseja usar."
+        },
+        "9278bd133a7f5cd50f24a5a253f8ac9b": {
+            "text": "API: $ template-> pageClass = \"ClassName\";"
+        },
+        "85ac227eb16808008afaf07f66cf0f7e": {
+            "text": "Desconsidere global Fields?"
+        },
+        "fd83133f05e8bacf7eb368a2d95de8fe": {
+            "text": "Por padr\u00e3o, quando um campo \u00e9 marcado 'global' ser\u00e1 exigido em todos os modelos (e automaticamente adicionado a quaisquer modelos que n\u00e3o t\u00eam). Se este modelo tem um prop\u00f3sito especial onde os campos 'globais' n\u00e3o se aplicaria, voc\u00ea pode verificar esta caixa para fazer campos neste modelo desrespeito 'global'."
+        },
+        "0176d878928026caefe7c81262335e1d": {
+            "text": "Exibi\u00e7\u00e3o do campo 'nome' no separador conte\u00fado?"
+        },
+        "61788997b579a9bcfe17e394d394ad01": {
+            "text": "Por padr\u00e3o, o campo 'nome' built-in aparece no editor de p\u00e1ginas guia 'Configura\u00e7\u00f5es'. Se voc\u00ea preferir que ele apare\u00e7a no separador 'conte\u00fado' marque esta caixa."
+        },
+        "19a460b1edf9cc0616cd0ce03e9a0ddf": {
+            "text": "Desativar Op\u00e7\u00e3o Trash?"
+        },
+        "38354c9531a0d7056f7f98de8810a2f1": {
+            "text": "Quando marcada, as p\u00e1ginas usando este modelo n\u00e3o ter\u00e1 a op\u00e7\u00e3o de serem enviados para o lixo."
+        },
+        "a7c1ec59b9f4fea9e41e1ca799437193": {
+            "text": "Desativar Guia Configura\u00e7\u00f5es?"
+        },
+        "abad59d4cf5691fd0506cb650dff0f5b": {
+            "text": "Quando marcada, as p\u00e1ginas usando este modelo n\u00e3o ter\u00e1 um guia 'Configura\u00e7\u00f5es' aparecem no editor."
+        },
+        "a8d7050d17168bae58f775f20d56eeba": {
+            "text": "Pode p\u00e1ginas usando este modelo tem filhos?"
+        },
+        "0f79346b34fe5a07bf9ad38ef37e1723": {
+            "text": "Este modelo pode ser usado para novas p\u00e1ginas?"
+        },
+        "6ab8ac5b13a48347d2ca00a38bb06f94": {
+            "text": "Um exemplo de um modelo que voc\u00ea n\u00e3o gostaria de ser usado para novas p\u00e1ginas \u00e9 a sua 'homepage' modelo."
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "1"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "n\u00e3o mais permitido"
+        },
+        "1e791aefe4014d2551110c4348279487": {
+            "text": "modelo (s) permitido para crian\u00e7as"
+        },
+        "fcdd2e278208618dfa795ed85ba1eb06": {
+            "text": "Selecione o modelo (s) que ser\u00e1 permitida para crian\u00e7as de p\u00e1ginas usando este modelo. Utilize este s\u00f3 se voc\u00ea quiser especificamente para restringir a coloca\u00e7\u00e3o de p\u00e1ginas usando este modelo."
+        },
+        "9927f70231db8b53612513d00b934a7c": {
+            "text": "Se nenhum for selecionado, ent\u00e3o qualquer s\u00e3o permitidos, dentro dos limites de acesso do usu\u00e1rio. Um exemplo de uso poderia ser um modelo 'lista de not\u00edcias' que s\u00f3 \u00e9 permitido ter filhos usando 'news item' ou modelos 'press-release'."
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "Modelos indicados com% s tamb\u00e9m precisam de ser configurado para permitir que este modelo como um dos pais. Clique em qualquer modelo selecionado como um atalho para configurar pais permitidos."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "Modelos indicados com uma% s j\u00e1 est\u00e1 configurado para permitir que este modelo como um dos pais."
+        },
+        "1b50b9bdfa1846ef031dc3cc190267d6": {
+            "text": "modelo (s) permitido para os pais"
+        },
+        "8d3a827d5474c79dc3434e5e29f7a80f": {
+            "text": "Selecione o modelo (s) que ser\u00e1 permitida como pais para p\u00e1ginas usando este modelo. Utilize este s\u00f3 se voc\u00ea quiser especificamente para restringir a coloca\u00e7\u00e3o de p\u00e1ginas usando este modelo."
+        },
+        "dc70febc65985c326b6d7a85502ddc0a": {
+            "text": "Se nenhum for selecionado, ent\u00e3o qualquer modelo pai \u00e9 permitido, dentro dos limites de acesso do usu\u00e1rio. Um exemplo de uso poderia ser um modelo de 'empregado' que s\u00f3 \u00e9 permitido ter uma p\u00e1gina pai usando um modelo de 'empresa-diret\u00f3rio'."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "Modelos indicados com% s tamb\u00e9m precisam de ser configurado para permitir que este modelo para crian\u00e7as. Clique em qualquer modelo selecionado como um atalho para configurar s\u00e3o permitidas crian\u00e7as."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "Modelos indicados com uma% s j\u00e1 est\u00e1 configurado para permitir que este modelo como uma crian\u00e7a."
+        },
+        "92fe79a8aa59b037f5f6e2b43f89fea8": {
+            "text": "formato de nome para crian\u00e7as"
+        },
+        "5cf485ae4559df60232a5ff0f87783cb": {
+            "text": "Opcionalmente especificar um formato para nomes de p\u00e1gina usado quando uma nova p\u00e1gina filho \u00e9 adicionado. Isso permite que o \"P\u00e1gina Adicionar\" passo a ser ignorado quando a adi\u00e7\u00e3o de uma nova p\u00e1gina. Para funcionar, um \u00fanico (1) modelo deve ser selecionado para o \"modelo (s) admitidos para as crian\u00e7as\" campo acima."
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Deixe em branco para desabilitar. Enter \"t\u00edtulo\" (sem aspas) para gerar automaticamente o nome do t\u00edtulo da p\u00e1gina. Mais op\u00e7\u00f5es, incluindo formatos de data tamb\u00e9m est\u00e3o dispon\u00edveis. [Mais] (http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "de4914b2943f3cfce0232ae281a8b155": {
+            "text": "Mostrar no menu de atalhos add-page?"
+        },
+        "eaf9115aadc503ff009e4c769963a877": {
+            "text": "Quando selecionado, esse modelo \u00e9 eleg\u00edvel para aparecer no bot\u00e3o de atalho \"adicionar nova p\u00e1gina\" \/ menu que aparece na tela principal Pages. Isso pressup\u00f5e estejam reunidas todas as outras condi\u00e7\u00f5es (ver abaixo)."
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Para ajustar a ordem que os modelos aparecem no menu de atalhos, consulte o [configura\u00e7\u00f5es do m\u00f3dulo PageAdd] (% s)."
+        },
+        "91426b7105692d7c29b6307385ea99d1": {
+            "text": "** Condi\u00e7\u00f5es necess\u00e1rias para que isso funcione **"
+        },
+        "635a2459897d3f0072993713558c84b0": {
+            "text": "1. Voc\u00ea deve selecionar um modelo de pai (ver: \"permitiu modelos para os pais\" acima). Se mais do que um \u00e9 seleccionado, apenas o primeiro ir\u00e1 ser utilizado."
+        },
+        "b14d306525e8d6e9927d577a59064048": {
+            "text": "2. O modelo de pai selecionado deve ter definido esse modelo como uma permiss\u00e3o para as crian\u00e7as."
+        },
+        "67c0041f81951ac9b6b46dd2311fb9aa": {
+            "text": "configura\u00e7\u00f5es de classifica\u00e7\u00e3o para as crian\u00e7as"
+        },
+        "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
+            "text": "Se voc\u00ea quer ter filhos para classificar automaticamente por um campo espec\u00edfico, selecione-o aqui. Caso contr\u00e1rio, selecione \"Nenhum\" para deixar este ser definido por p\u00e1gina em seu lugar. Isso substitui a configura\u00e7\u00e3o da p\u00e1gina, por isso, se voc\u00ea selecionar algo diferente de \"Nenhum\", a op\u00e7\u00e3o de classifica\u00e7\u00e3o n\u00e3o aparecer\u00e1 para p\u00e1ginas usando este modelo."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mais"
+        },
+        "fd80e24b28f66f7a579ced68340fd3fa": {
+            "text": "Permitir n\u00fameros de p\u00e1gina?"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Se marcada, as p\u00e1ginas que utilizam este modelo ir\u00e1 apoiar a pagina\u00e7\u00e3o."
+        },
+        "4ee65b65a7329e4d76cce40b69075c2d": {
+            "text": "Acesse o n\u00famero da p\u00e1gina atual de seus arquivos de modelo com $ input-> pagenum."
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "Deve URLs n\u00famero de p\u00e1gina tem uma barra?"
+        },
+        "3a426f05b968cc7c6022ac1388e7d8e7": {
+            "text": "Permitir segmentos de URL?"
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Se marcada, as p\u00e1ginas que utilizam este modelo ir\u00e1 apoiar segmentos de URL personalizado depois de o URL da p\u00e1gina."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "Acesse o segmento de URL atual (s) a partir de seus arquivos de modelo com US $ input-> urlSegmentStr."
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "Deve segmentos de URL terminar com uma barra invertida?"
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "Quais segmentos URL que voc\u00ea quer para permitir?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Digite um segmento permitido, caminho segmento ou express\u00e3o regular por linha, ou deixe em branco para permitir que qualquer."
+        },
+        "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
+            "text": "Deve URLs de p\u00e1ginas de terminar com uma barra?"
+        },
+        "60cb362641cd33525562c9d62d0f8d18": {
+            "text": "Se 'Sim', p\u00e1ginas usando este modelo sempre ter\u00e1 URLs que terminam com uma barra '\/'. E se a p\u00e1gina \u00e9 carregada a partir de uma URL sem a barra, ele ser\u00e1 redirecionado para ele. Se voc\u00ea selecionar 'N\u00e3o', a vers\u00e3o n\u00e3o-cortou ser\u00e1 aplicada em seu lugar. Note que esta defini\u00e7\u00e3o n\u00e3o imp\u00f5e este comportamento nos segmentos de URL ou n\u00fameros de p\u00e1gina, apenas URLs de p\u00e1ginas reais. Se voc\u00ea n\u00e3o tem uma prefer\u00eancia, \u00e9 recomend\u00e1vel que voc\u00ea deixar isto definido para 'Sim'."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Esquema \/ Protocolo"
+        },
+        "249e45d525f325778f98cdd90eaf0b32": {
+            "text": "HTTP ou HTTPS"
+        },
+        "d50c90d8cbe8ba3ac7178aeb59f93b68": {
+            "text": "HTTPS somente (SSL criptografado)"
+        },
+        "ea43e91e88d8e9dd3cd46d5470fb71d6": {
+            "text": "HTTP \u00fanica"
+        },
+        "ecb1f1de9e0f813e37e40e2aa016c008": {
+            "text": "Se seu site tem um certificado SSL e \u00e9 acess\u00edvel por HTTPS, voc\u00ea pode fazer p\u00e1ginas usando este modelo acess\u00edvel somente via HTTPS ou HTTP. Por exemplo, se voc\u00ea selecionar 'HTTPS apenas' abaixo, e um pedido para uma p\u00e1gina usando este modelo vem em atrav\u00e9s de HTTP, ele ser\u00e1 automaticamente redirecionado para a vers\u00e3o HTTPS. Por padr\u00e3o, ProcessWire permite a conex\u00e3o de HTTP ou HTTPS."
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Use arquivo compilado?"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Permite ProcessWire para atualizar seu arquivo de modelo para o namespace ProcessWire e aplicar quaisquer m\u00f3dulos FileCompiler instalados."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Recomendam pelo menos para arquivos de modelo que n\u00e3o usam um namespace ProcessWire (como aquelas oriundas de locais 2.x PW)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Se voc\u00ea n\u00e3o tiver certeza, escolha a op\u00e7\u00e3o \"Auto\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(Desactiva compilador)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Auto (compilar quando o arquivo n\u00e3o tem namespace)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(Arquivo de modelo apenas)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(Arquivo e arquivos modelo inclu\u00eddo a partir dele)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Detectado namespace arquivo de modelo \u00e9 \"% s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Compilar recomendado."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Compilar n\u00e3o \u00e9 necess\u00e1rio a menos que necess\u00e1rio para os m\u00f3dulos ou inclui."
+        },
+        "dc105ac52c237f9f09c74b0767f64f74": {
+            "text": "Tipo de conte\u00fado"
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Cabe\u00e7alho para enviar com sa\u00edda de arquivo de modelo. Se nenhum selecionado, ProcessWire n\u00e3o enviar\u00e1 um cabe\u00e7alho do tipo de conte\u00fado e na maioria dos casos text \/ html \u00e9 assumido. Selecionando um tipo de conte\u00fado \u00e9 recomendado quando a sa\u00edda ser\u00e1 algo diferente de html."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Para adicionar mais tipos de conte\u00fado ver ContentTypes * * em \/wire\/config.php (e adicion\u00e1-los em \/site\/config.php)."
+        },
+        "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
+            "text": "Matr\u00edcula Template alternativo"
+        },
+        "f8faba0e1d9c277a84bb16a48f9d57f6": {
+            "text": "nome do arquivo do modelo, se for diferente de:% s"
+        },
+        "217ca16c1e160b229a71c244512c3d4d": {
+            "text": "arquivos de modelo est\u00e3o a ser assumida no diret\u00f3rio:% s"
+        },
+        "043008c261f9d0e109c03ab63e047bcd": {
+            "text": "extens\u00e3o de arquivo modelo \u00e9 assumido como sendo:% s"
+        },
+        "52ca64db1f0ca50831b3af91db6cd643": {
+            "text": "Arquivo prepend"
+        },
+        "58a0dd4014386dd156c47a6d69cdd5f8": {
+            "text": "Arquivo para preceder ao arquivo de modelo durante a p\u00e1gina render. Deve ser relativo ao \/ site \/ templates \/."
+        },
+        "0f7b5e8d336c577672820ac8d848fb4f": {
+            "text": "anexar Arquivo"
+        },
+        "9c33f36534809a059d32ae185a28ad0e": {
+            "text": "Arquivo para anexar arquivo de modelo durante a p\u00e1gina render. Deve ser relativo ao \/ site \/ templates \/."
+        },
+        "ab6b38f8849f9837a2fbb24721ab5e99": {
+            "text": "Desativar preceder autom\u00e1tica de arquivo:% s"
+        },
+        "07bbc1cae53fb8d26759b5564e6a5824": {
+            "text": "Esta op\u00e7\u00e3o desativa o config-> configura\u00e7\u00e3o $ prependTemplateFile em \/site\/config.php por apenas neste modelo."
+        },
+        "95dac43782405c335b194c4f4ff28436": {
+            "text": "Desativar acr\u00e9scimo autom\u00e1tico de arquivo:% s"
+        },
+        "438f365e84607c69184559ff2e9d974b": {
+            "text": "Esta op\u00e7\u00e3o desativa o config-> configura\u00e7\u00e3o $ appendTemplateFile em \/site\/config.php por apenas neste modelo."
+        },
+        "707380d7bcc2ece9eead5a5879fb1c22": {
+            "text": "Voc\u00ea deseja gerenciar visualizar e editar o acesso de p\u00e1ginas usando esse modelo?"
+        },
+        "22ac5f69365966a7ce509e349b23539a": {
+            "text": "Se voc\u00ea selecionar 'Sim' voc\u00ea pode definir quais os pap\u00e9is que t\u00eam acesso a p\u00e1ginas que utilizam este modelo. Se voc\u00ea selecionar 'n\u00e3o' ent\u00e3o p\u00e1ginas usando este modelo vai herdar o acesso de suas p\u00e1ginas principais."
+        },
+        "26b6d64574e88f30f407e16212dc4d57": {
+            "text": "O que fazer quando o usu\u00e1rio tenta visualizar uma p\u00e1gina e n\u00e3o tem acesso?"
+        },
+        "e13c4cbb7f089450e12b10561001f9e1": {
+            "text": "Se um usu\u00e1rio tenta acessar uma p\u00e1gina usando este modelo, e n\u00e3o tem acesso \u00e0 p\u00e1gina, o que deve fazer?"
+        },
+        "998806f5cd0395d2ea2c406b57463397": {
+            "text": "Mostrar uma p\u00e1gina 404"
+        },
+        "1adb25e12d2b0d06683c3dc04e833631": {
+            "text": "Mostrar a p\u00e1gina de login:% s"
+        },
+        "225237dc381e612f4bbf08dd75efdb71": {
+            "text": "Redirecionar para outra URL"
+        },
+        "57f844c4a5ccb54207fa22705e7729a3": {
+            "text": "Digite o URL ou p\u00e1gina ID que voc\u00ea deseja redirecionar para quando um usu\u00e1rio n\u00e3o tem acesso"
+        },
+        "b12715241d6f9d36629e189651930f08": {
+            "text": "Este campo \u00e9 aplic\u00e1vel apenas se voc\u00ea tiver selecionado \"redirecionar para outra URL\" no campo acima."
+        },
+        "2f2055affca16d8404e278fc1d6c3a07": {
+            "text": "Opcional: Na sua URL, voc\u00ea pode incluir a tag '{id}' (talvez como uma vari\u00e1vel GET), e ser\u00e1 substitu\u00eddo pelo n\u00famero de identifica\u00e7\u00e3o da p\u00e1gina solicitada, se voc\u00ea quiser."
+        },
+        "77b116ba76d6cad7420de0729f5437cb": {
+            "text": "Deve ser pesquisado p\u00e1ginas quando o usu\u00e1rio n\u00e3o tem acesso?"
+        },
+        "6ceb6814781363fa5e58fc38fe5910a1": {
+            "text": "Quando um usu\u00e1rio n\u00e3o tem acesso para visualizar uma p\u00e1gina usando este modelo, o que deve acontecer em pesquisas e listas de p\u00e1gina?"
+        },
+        "9afb9f536d5471f188308f8e160a555c": {
+            "text": "Sim - As p\u00e1ginas podem aparecer nas pesquisas \/ listas, mesmo que o usu\u00e1rio n\u00e3o tem acesso a visualiz\u00e1-los"
+        },
+        "ac32650de5a87d0e83f088edcefbc9a8": {
+            "text": "N\u00e3o - p\u00e1ginas n\u00e3o pode n\u00e3o aparecer nas pesquisas \/ listas a menos que o usu\u00e1rio tem acesso a visualiz\u00e1-los"
+        },
+        "724da4546b6908025f8a9fa99885297f": {
+            "text": "API Nota: Esta defini\u00e7\u00e3o afecta os resultados retornados por $ p\u00e1ginas-> find (), $ page-> children () e outras fun\u00e7\u00f5es que retornam PageArrays."
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "Permitir acesso relacionadas com a edi\u00e7\u00e3o de herdar a crian\u00e7as?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Por padr\u00e3o, todas as configura\u00e7\u00f5es de acesso neste modelo herdam atrav\u00e9s da \u00e1rvore de p\u00e1gina at\u00e9 uma p\u00e1gina usando outro acesso controlado modelo substitui-lo."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "Escolha a op\u00e7\u00e3o \"N\u00e3o\" se voc\u00ea quiser evitar o acesso relacionadas com a edi\u00e7\u00e3o de ser herdada al\u00e9m p\u00e1ginas usando este modelo. Ver o acesso continuar\u00e1 a herdar de qualquer maneira."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Permitir acesso relacionadas com a edi\u00e7\u00e3o de herdar a crian\u00e7as que n\u00e3o s\u00e3o de acesso controlado"
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Limitar o acesso relacionadas com a edi\u00e7\u00e3o de p\u00e1ginas usando apenas esse modelo"
+        },
+        "e91c9dce55b792f0254aeb69ba314f17": {
+            "text": "Que pap\u00e9is podem acessar p\u00e1ginas usando esse modelo (e aqueles herdar a partir dele)?"
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Nota: a editar \/ criar \/ adicionar op\u00e7\u00f5es est\u00e3o desativadas para pap\u00e9is que atualmente n\u00e3o possuem page-permiss\u00e3o de edi\u00e7\u00e3o."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(todos)"
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "permiss\u00f5es de edi\u00e7\u00e3o adicionais e substitui\u00e7\u00f5es"
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Opcionalmente adicionar ou revogar as permiss\u00f5es atribu\u00eddas a cada fun\u00e7\u00e3o quando solicitado para uma p\u00e1gina usando este modelo (ou herdar acesso a partir dele)."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "As op\u00e7\u00f5es dispon\u00edveis aqui s\u00e3o determinados por suas escolhas para \"Editar P\u00e1ginas\" acima. Como resultado, voc\u00ea deve salvar este modelo e voltar aqui depois de fazer altera\u00e7\u00f5es para pap\u00e9is com acesso \"Editar P\u00e1ginas\" acima."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Op\u00e7\u00f5es s\u00e3o mostradas no formato \"papel: permiss\u00e3o\". Para uma descri\u00e7\u00e3o do que cada permiss\u00e3o faz, consulte o [refer\u00eancia permiss\u00f5es] (% s)."
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "Adicionar permiss\u00f5es de papel"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "Revogar as permiss\u00f5es de papel"
+        },
+        "211addf77f182a8c4e3b0911eb82e05f": {
+            "text": "modelo exclu\u00eddo"
+        },
+        "f048d404737b6fafd4849b8cd850e983": {
+            "text": "Aviso, arquivo n\u00e3o existe"
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "Pulado modelo de mudan\u00e7a de nome - por favor, preencha que, ap\u00f3s a a\u00e7\u00e3o atual."
+        },
+        "ce79a399cbe0a2128106c428d5f5227c": {
+            "text": "Salvo modelo:% s"
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "nome do modelo especificado inv\u00e1lido para o clone"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "n\u00e3o pode clonar porque um modelo com esse nome j\u00e1 existe"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Criado clone de template \"% 1 $ S\" chamado \"% 2 $ s\"."
+        },
+        "dbb2a9bf7f53894204e7b75a4a323fa2": {
+            "text": "Erro ao criar clone deste modelo"
+        },
+        "a9b81f1f8d87e20c79d70ad42cc924e3": {
+            "text": "campos duplicados de \"% 1 $ S\" para \"% 2 $ s\""
+        },
+        "a2b2765c9702ca543cd769b157062377": {
+            "text": "O campo \"% s\" n\u00e3o pode ser removido porque \u00e9 globalmente exigido por todas as fieldgroups"
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Erro com coloca\u00e7\u00e3o de fieldset \/ guia \"% s\" - por favor, corrigir e salvar novamente"
+        },
+        "6e82edd479b2b5c07f250031d13a9b92": {
+            "text": "Salvo fieldgroup:% s"
+        },
+        "fddc330c21a2e3fa08c9af7307dd2046": {
+            "text": "Os campos que ser\u00e3o exclu\u00eddos"
+        },
+        "c69da3a709ad376098eb517be436a12b": {
+            "text": "Voc\u00ea pediu para mudar o Fieldgroup de \"% 1 $ s\" para \"% 2 $ s\"."
+        },
+        "0cd878f5f6c3ecd2d309d74c608cf0e3": {
+            "text": "Os seguintes campos ser\u00e3o exclu\u00eddos permanentemente em p\u00e1ginas que utilizam este modelo:"
+        },
+        "794ed990b58e042f53c8e1b0f9c48b77": {
+            "text": "Por favor, confirme que voc\u00ea entenda o exposto, e que pretende mudar o fieldgroup marcando a caixa e enviar este formul\u00e1rio."
+        },
+        "1a1e5b08d1538484177a49ce2168b297": {
+            "text": "Por favor, confirme que voc\u00ea deseja alterar o Fieldgroup de \"% 1 $ S\" para \"% 2 $ s\""
+        },
+        "95faabcca5ce9361cfbbfdac564540a6": {
+            "text": "Alterar Fieldgroup para o modelo:% s"
+        },
+        "48a72eabb7f3f13f0d942bb2cdfe9811": {
+            "text": "Fieldgroup mudar abortado"
+        },
+        "62596dd3b1918d492b97f5945dc8aea8": {
+            "text": "Mudou molde fieldgroup para:% s"
+        },
+        "b58b1fada0411080ca80b5199d2e56ce": {
+            "text": "Remover Campos do Modelo:% s"
+        },
+        "b82a3ccab15c9f7ea79ccae4fb4b7c3a": {
+            "text": "Remover campos de modelo"
+        },
+        "297401f75a53c46e41a44c9d91738f1e": {
+            "text": "Voc\u00ea pediu para remover um ou mais campos do modelo. Isso resultar\u00e1 em dados associados com os campos abaixo sendo exclu\u00eddos permanentemente. Se os campos que s\u00e3o removidos cont\u00eam uma grande quantidade de dados, ele pode levar algum tempo para esta opera\u00e7\u00e3o seja conclu\u00edda depois de confirmar e enviar este formul\u00e1rio. Por favor, confirme que voc\u00ea entenda isso e quer deletar o campo (s) marcando as caixas abaixo."
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Remover campo \"% 1 $ s\" de modelo \"% 2 $ s\""
+        },
+        "3617ad2fed81de1357bb35b0459bf8b8": {
+            "text": "Este modelo n\u00e3o pode ser renomeado porque \u00e9 um modelo de sistema"
+        },
+        "690d663be740c77b16476dfd06a4a4b7": {
+            "text": "O nome \"% s\" j\u00e1 est\u00e1 em uso"
+        },
+        "7b2365f3c03bbf66c17531b39af975f9": {
+            "text": "modelo renomeado \"% 1 $ S\" para \"% 2 $ s\""
+        },
+        "348267a4dada558acc9b2cd1b68ad41e": {
+            "text": "Renomeado arquivo de modelo \"% 1 $ S\" para \"% 2 $ s\""
+        },
+        "ea24ff7efc7e185e1c6f8d52266fefdc": {
+            "text": "N\u00e3o foi poss\u00edvel renomear \"% 1 $ S\" para \"% 2 $ s\" no diret\u00f3rio \"% 3 $ s\". Voc\u00ea deve renomear o arquivo manualmente em seu sistema de arquivos."
+        },
+        "cbb29209ccd6a869e389572e793b1f1b": {
+            "text": "O arquivo de modelo \"% 1 $ s\" n\u00e3o foi encontrado no diret\u00f3rio \"% 2 $ s\". Voc\u00ea deve renomear o arquivo \"% 3 $ s\" para \"% 1 $ s\" manualmente em seu sistema de arquivos."
+        },
+        "d40a1614c5e9e10db2d5d9f94a0482bb": {
+            "text": "Renomeie template \"% 1 $ S\" para \"% 2 $ s\""
+        },
+        "f7c1d3ba270aa43fe36e00ee3a1e9718": {
+            "text": "Por favor, confirme que voc\u00ea deseja renomear esse modelo, marcando a caixa abaixo."
+        },
+        "82ae9be0c318ed67592703448c77d4d6": {
+            "text": "arquivo de modelo \"% s\" parece ser grav\u00e1vel por isso vamos tentar renome\u00e1-lo quando voc\u00ea clicar em enviar."
+        },
+        "df3f89873c6527f24453345a6b7f263f": {
+            "text": "arquivo de modelo \"% 1 $ s\" n\u00e3o \u00e9 grav\u00e1vel. Renomeie o arquivo para \"% 2 $ s\" antes de clicar em enviar."
+        },
+        "29a2d50c9d90354a16943888d8e700da": {
+            "text": "campo removido \"% 1 $ s\" de template \/ fieldgroup \"% 2 $ s\""
+        },
+        "da49c8bb3f9748634bedc77fac9221f9": {
+            "text": "Adicionado campo \"% 1 $ S\" para template \/ fieldgroup \"% 2 $ s\""
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "Modelos"
+        },
+        "31a0330754505f0778be18e7b4dbc661": {
+            "text": "Listar e editar os modelos que controlam a sa\u00edda p\u00e1gina"
+        },
+        "b16492fba46029659b0d16ce05bab82f": {
+            "text": "Adicionar Novo Modelo"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "Sistema"
+        },
+        "e08a48beb01151e3dbd6c4b01d14d641": {
+            "text": "Mostre tudo"
+        },
+        "2da33125162e59b2ff307fb050040ead": {
+            "text": "Nome"
+        },
+        "0934f0c8ef59c46cd3f23477dc242642": {
+            "text": "R\u00f3tulo"
+        },
+        "6468942ecc94c202802ee17efdbda184": {
+            "text": "Campos"
+        },
+        "adc3250d7ccf9a0303cc0b44d70917d6": {
+            "text": "P\u00e1ginas"
+        },
+        "9aa8f6fc386e155886938a352548a81c": {
+            "text": "modificada"
+        },
+        "bd1ab8d7a2147046de89d54d6d03f39d": {
+            "text": "sistema"
+        },
+        "7de04564993d28e2b32be513c1575777": {
+            "text": "Acesso"
+        },
+        "b81ec9ff37dd594fd51bb7b72bc82e34": {
+            "text": "nenhum arquivo"
+        },
+        "ce74097d91e1181f033e39e38736dd5a": {
+            "text": "esconderijo"
+        },
+        "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
+            "text": "ProCache"
+        },
+        "0630333bf0b09b371182fe756dec526a": {
+            "text": "segmentos de URL"
+        },
+        "289abb71620e21f484c91df47d263eec": {
+            "text": "n\u00fameros de p\u00e1gina"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Basics"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Acesso"
+        },
+        "0daea515bb26aec31f4e6ebbee953cd7": {
+            "text": "Fam\u00edlia"
+        },
+        "21ddd66d87bebbaaf6bba5319e5b7f97": {
+            "text": "URLs"
+        },
+        "323686db2bb70f95c6bedc86d5c3387d": {
+            "text": "arquivos"
+        },
+        "ff2e33d2066471fd192bf41c39322cd1": {
+            "text": "esconderijo"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "avan\u00e7ado"
+        },
+        "08b4ed72628b718cbe3158eb2eaf10a2": {
+            "text": "Sistema"
+        },
+        "ac97a1ad01bd7b48508de449e229a73d": {
+            "text": "Importar"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "Excluir"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "Salve \ue051"
+        },
+        "2a138a3c1a54958a39f65b80e666b643": {
+            "text": "R\u00f3tulo"
+        },
+        "03a481d8869ea4aa815e15943c4577dd": {
+            "text": "Fieldgroup"
+        },
+        "2bcb87bddf14231177c0d5a7be879871": {
+            "text": "Campos"
+        },
+        "c900d3e459e4a6e87b601d950c86a3bb": {
+            "text": "Campos"
+        },
+        "3542eba15a5738faa3ec20dac5e8c2b1": {
+            "text": "Tempo de cache"
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "Etiqueta para guia Conte\u00fado"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "Etiqueta para guia Crian\u00e7as"
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "Etiqueta para a propriedade Nome da P\u00e1gina"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Fun\u00e7\u00e3o"
+        },
+        "30a75d09489b9f6a393c3885b81ec0b1": {
+            "text": "Visualiza\u00e7\u00e3o de P\u00e1ginas"
+        },
+        "a42aa7fb5a74afbdcaf92c44bd99bd3c": {
+            "text": "Editar P\u00e1ginas"
+        },
+        "e431e1335b3c843758bbed8b021eeee9": {
+            "text": "Criar P\u00e1ginas"
+        },
+        "46c22ba22392809d478c6f312de87f62": {
+            "text": "Adicionar Crian\u00e7as"
+        },
+        "a7e26a26319b0fc9973181a9d9c1baaa": {
+            "text": "Continuar"
+        },
+        "af497bbd8d42241e09e0f593a8550aa3": {
+            "text": "Remover Campos"
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "Este modelo \u00e9 utilizado pelo p\u00e1gina% d"
+        },
+        "d26c2f7eb253b0202c2769f3dd232d96": {
+            "text": "Este modelo \u00e9 utilizado por% d p\u00e1ginas"
+        },
+        "e37f4fc0441c524ee5a89453f12178c8": {
+            "text": "Adicionar Modelo"
+        },
+        "0f12f2b440ad104a1ee7cb027aba8b18": {
+            "text": "Adicionar Templates"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "% D p\u00e1gina"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "p\u00e1ginas% d"
+        },
+        "14bcc27345b2325a5e492384a734c1aa": {
+            "text": "Modelo \u00e9 usado por 1 p\u00e1gina"
+        },
+        "957ba77c721f931f1ad38ed47b98fd0d": {
+            "text": "Modelo \u00e9 utilizado por% d p\u00e1ginas"
+        },
+        "65f037a0e08b94d9e42932b68c5eaf29": {
+            "text": "fieldgroup deste modelo \u00e9 usado por um outro modelo"
+        },
+        "18dec3122ea08276dd94476904bcef7b": {
+            "text": "fieldgroup deste modelo \u00e9 utilizado por% d outros modelos"
+        }
+    }
+}

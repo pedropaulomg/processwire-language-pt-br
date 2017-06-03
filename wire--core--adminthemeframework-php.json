@@ -1,0 +1,27 @@
+{
+    "file": "wire\/core\/AdminThemeFramework.php",
+    "textdomain": "wire--core--adminthemeframework-php",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar novo"
+        },
+        "90dd5a9776ef2638eebdd94ae76a1902": {
+            "text": "\nVer site"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Perfil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Sair"
+        },
+        "fbbbb283efc814825613301c22951ba7": {
+            "text": "Feche tudo"
+        },
+        "878620e7a3c84a803c9a70bfe346be57": {
+            "text": "Utilize este tema de administra\u00e7\u00e3o para a tela de login?"
+        },
+        "ffd8fa387acec9945788ad7c39400b1b": {
+            "text": "Quando marcado, o tema de administra\u00e7\u00e3o ser\u00e1 usado na tela de login do usu\u00e1rio."
+        }
+    }
+}

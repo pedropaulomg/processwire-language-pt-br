@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Session\/SessionLoginThrottle\/SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "Aguarde pelo menos% d segundos antes de tentar outra login."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Do acelerador por endere\u00e7o IP?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Por padr\u00e3o, a otimiza\u00e7\u00e3o s\u00f3 ser\u00e1 feita por nome de usu\u00e1rio. Se voc\u00ea marcar esta caixa, ent\u00e3o a acelera\u00e7\u00e3o tamb\u00e9m ser\u00e1 feito por endere\u00e7o IP. Recomendamos ativar esta op\u00e7\u00e3o se os usu\u00e1rios n\u00e3o est\u00e3o vindo de um endere\u00e7o IP compartilhado."
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "N\u00famero de segundos para fazer usu\u00e1rio esperar ap\u00f3s tentativa de login falhou"
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "Este n\u00famero \u00e9 multiplicado pelo n\u00famero de tentativas falhadas, de modo que cada tentativa fracassada aumenta o tempo de espera exponencialmente. Como resultado, ter cuidado sobre como definir um valor muito alto."
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "O n\u00famero m\u00e1ximo de segundos que um usu\u00e1rio nunca iria ter que esperar antes de tentar outro login"
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Porque o tempo de espera \u00e9 aumentado exponencialmente em cada tentativa, isso coloca um m\u00e1ximo (cap) sobre o tempo de espera. Voc\u00ea deve deixar este conjunto a um n\u00famero bastante elevado."
+        },
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60 = 1 minuto, 300 = 5 minutos, a 600 = 10 minutos, 3600 = 1 hora, 86400 = 1 dia"
+        }
+    }
+}

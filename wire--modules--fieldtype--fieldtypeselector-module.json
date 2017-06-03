@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector-module",
+    "translations": {
+        "edcca7404d60fa39e1e56bbb6c85c519": {
+            "text": "Valor Selector inicial"
+        },
+        "7705e5655113c7b4e5b224010ac7af38": {
+            "text": "Insira um selector string inicial que ser\u00e1 usado como o ponto de partida imposta por quaisquer seletores gerados a partir deste campo. Todas as p\u00e1ginas correspondentes do selector usu\u00e1rio ser\u00e1 obrigado dentro do selector voc\u00ea entra aqui."
+        },
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "Exemplo: Modelo de produto ="
+        }
+    }
+}

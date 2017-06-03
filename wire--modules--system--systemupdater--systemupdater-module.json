@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdater.module",
+    "textdomain": "wire--modules--system--systemupdater--systemupdater-module",
+    "translations": {
+        "d7e351389cfa8187fc844808c5d524e7": {
+            "text": "Detectado mudan\u00e7a de vers\u00e3o do n\u00facleo% 1 $ S =>% 2 $ s"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "cache do compilador arquivo apagada"
+        },
+        "2bb01c9e5f493e464bae4f127ac24891": {
+            "text": "Log de Atualiza\u00e7\u00e3o do Sistema"
+        },
+        "83d345108e3c4ebe46ec3d2de0b7e463": {
+            "text": "Vers\u00e3o do sistema"
+        },
+        "e3087085dad248ad622f15449dc45832": {
+            "text": "Isto permite-lhe voltar a aplicar uma atualiza\u00e7\u00e3o de vers\u00e3o do sistema, reduzindo o n\u00famero vers\u00e3o."
+        },
+        "131f946cc232ed294bb1051fdb295d02": {
+            "text": "Updater sistema"
+        },
+        "68b7f791d338e65dd897b4316c51a568": {
+            "text": "Gerencia vers\u00f5es do sistema e atualiza\u00e7\u00f5es."
+        }
+    }
+}

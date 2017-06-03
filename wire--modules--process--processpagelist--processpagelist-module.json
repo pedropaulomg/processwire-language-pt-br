@@ -1,0 +1,75 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Lixo"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "mudan\u00e7a"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "selecionar"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "unselect"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mais"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Clique e arraste para mover"
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "erro de rede, por favor tente novamente mais tarde"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Erro desconhecido, tente novamente mais tarde"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Mostre tudo"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%) d p\u00e1ginas"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nome do campo de p\u00e1gina para exibir"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Cada p\u00e1gina em um PageList \u00e9 identificado por uma etiqueta, tipicamente um t\u00edtulo ou campo de t\u00edtulo. Voc\u00ea pode especificar qual campo ele deve usar aqui. Para especificar v\u00e1rios campos, separe cada nome de campo com um espa\u00e7o, ou usar seu pr\u00f3prio formato string com nomes de campo cercado em {colchetes}. Se o campo resolve a um objeto (como uma outra p\u00e1gina), em seguida, especificar a propriedade com um ponto, ou seja, {anotherpage.title}. Observe que, se o formato que voc\u00ea especificar resolve para um valor em branco, em seguida, ProcessWire usar\u00e1 o campo de p\u00e1gina \"nome\"."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Voc\u00ea pode, opcionalmente, substituir essa configura\u00e7\u00e3o em uma base per-modelo em cada modelo \"avan\u00e7adas\" configura\u00e7\u00f5es."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "valor default \u00e9% d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Se for deixado no valor padr\u00e3o, essa configura\u00e7\u00e3o tamb\u00e9m pode ser especificado no $ config-> array pageList."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "N\u00famero de p\u00e1ginas para mostrar antes da pagina\u00e7\u00e3o"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Velocidade de anima\u00e7\u00e3o (em ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Esta \u00e9 a velocidade em que cada ramo na hierarquia da p\u00e1gina anima para cima ou para baixo. Os n\u00fameros mais baixos s\u00e3o mais r\u00e1pidos, mas menos vis\u00edvel. Para nenhuma anima\u00e7\u00e3o especifique 0."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar novo"
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Mostrar a\u00e7\u00f5es de p\u00e1gina em foco?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Por padr\u00e3o, a\u00e7\u00f5es para uma p\u00e1gina aparecer depois de um clique (pelo menos no tema padr\u00e3o do administrador). Para torn\u00e1-los aparecer em foco em vez disso, marque esta caixa."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Para mais op\u00e7\u00f5es aqui, ver a config-> pageList configura\u00e7\u00e3o $ em \/wire\/config.php. Voc\u00ea pode copiar essas configura\u00e7\u00f5es para \/site\/config.php e substitu\u00ed-los."
+        }
+    }
+}

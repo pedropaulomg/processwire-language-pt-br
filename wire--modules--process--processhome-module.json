@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "admin In\u00edcio"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Age como um Processo de espa\u00e7o reservado para a raiz de administra\u00e7\u00e3o. Garante o controle de fluxo adequada ap\u00f3s o login."
+        }
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
+    "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
+    "translations": {
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "p\u00e1gina desconhecido"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Esta p\u00e1gina est\u00e1 bloqueado para edi\u00e7\u00f5es"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Voc\u00ea n\u00e3o tem acesso para editar"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "% S + Sair"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "% S + Ver"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "% s + Adicionar Novo"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "% S + Pr\u00f3ximo"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Voc\u00ea tem certeza? Um carregamento est\u00e1 em andamento e pode ser perdido se continuar."
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Salve \ue051"
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Esta p\u00e1gina \u00e9 no Lixo"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Salve + Mantenha In\u00e9dito"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Publicar"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Conte\u00fado"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Crian\u00e7as"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Crian\u00e7as \/ Subpages"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "Atualmente n\u00e3o h\u00e1 crian\u00e7as \/ subp\u00e1ginas abaixo nesta p\u00e1gina."
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Crian\u00e7as s\u00e3o classificadas segundo a \"% s\", pela defini\u00e7\u00e3o de modelo."
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "Adicionar nova p\u00e1gina aqui"
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Classificar Configura\u00e7\u00f5es"
+        },
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Se voc\u00ea quer todas as crian\u00e7as atuais e futuros para classificar automaticamente por um campo espec\u00edfico, selecione o campo abaixo e, opcionalmente, marque a caixa 'reverso' para fazer descer o tipo. Deixe em branco o campo de classifica\u00e7\u00e3o, se voc\u00ea quer ser capaz de arrastar e soltar para o seu pr\u00f3prio fim."
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Configura\u00e7\u00f5es"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Modelo"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "parente"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Criado pelo Usu\u00e1rio"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Criado por% 1 $ s em% 2 $ s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "\u00daltima modifica\u00e7\u00e3o por% 1 $ s em% 2 $ s"
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Publicado em% s"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "informa\u00e7\u00f5es"
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Oculto: Exclu\u00eddos listas e pesquisas"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "Bloqueado: N\u00e3o edit\u00e1vel"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "In\u00e9dito: N\u00e3o vis\u00edvel no local"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "estado"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Excluir"
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "Apagar permanentemente"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "Mover para lixeira"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Marque a caixa para confirmar que voc\u00ea quer fazer isso."
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "confirme"
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Esta p\u00e1gina n\u00e3o pode ser exclu\u00eddo neste momento"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Vis\u00e3o"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Quem pode acessar esta p\u00e1gina?"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "Fun\u00e7\u00e3o"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "O que eles podem fazer"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(todos)"
+        },
+        "eec429d33814974270e5ab8a04a3d23e": {
+            "text": "O acesso \u00e9 definida com modelo desta p\u00e1gina:% s"
+        },
+        "890e4f4dd63b6c580cbf534f25914565": {
+            "text": "O acesso \u00e9 herdada de p\u00e1gina \"% 1 $ s\" e definido com template:% 2 $ s"
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "Alterar"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Publicado P\u00e1gina:% s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Salvo P\u00e1gina:% s"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "n\u00e3o pode ser publicado at\u00e9 erros s\u00e3o corrigidos"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "Mudou o nome URL da p\u00e1gina para \"% s\" porque o nome solicitado j\u00e1 foi tomada."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "N\u00e3o h\u00e1 pr\u00f3xima p\u00e1gina edit\u00e1vel para editar."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Restaurado valor anterior"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "P\u00e1gina in\u00e9dito porque o campo \"% s\" \u00e9 necess\u00e1ria"
+        },
+        "17f8097b4af11ef352554fc7dd416c34": {
+            "text": "'% S' modelo n\u00e3o \u00e9 permitido"
+        },
+        "c4101b17a6f3bb8ffbe40eb9edef2347": {
+            "text": "Esta p\u00e1gina n\u00e3o \u00e9 apag\u00e1veis"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "p\u00e1gina exclu\u00eddo:% s"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "p\u00e1gina mudou-se para o lixo:% s"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel mover a p\u00e1gina para o lixo"
+        },
+        "11daf8e4f72e87c440ed3e0cac443157": {
+            "text": "Confirmar altera\u00e7\u00e3o de modelo"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "Alterar modelo de \"% 1 $ S\" para \"% 2 $ s\""
+        },
+        "48af63aeec834982fcf91e325aaea998": {
+            "text": "Aviso, alterando o modelo ir\u00e1 eliminar os seguintes campos:"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Voc\u00ea tem certeza?"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "Por favor, confirme que voc\u00ea entendeu o que precede clicando na caixa abaixo."
+        },
+        "6b102e11bd33fb8f4be6a6cecf2c491b": {
+            "text": "Voc\u00ea n\u00e3o tem permiss\u00e3o para alterar o modelo nesta p\u00e1gina."
+        },
+        "854de5f33bda667c67117b0aaee5a9cf": {
+            "text": "Esse modelo n\u00e3o \u00e9 permitido"
+        },
+        "d4ad7f8661990f191def1fb3a6accbd9": {
+            "text": "modelo alterado para '% s'"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Editar P\u00e1gina:% s"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Default \"vista\" localiza\u00e7\u00e3o \/ a\u00e7\u00e3o"
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "O tipo padr\u00e3o de a\u00e7\u00e3o usada quando a guia \"Exibir\" \u00e9 clicado no editor de p\u00e1gina."
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "Crian\u00e7as s\u00e3o classificadas segundo"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Manual de arrastar e soltar"
+        },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "Os campos nativos"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "Os campos personalizados"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "dire\u00e7\u00e3o da classifica\u00e7\u00e3o inversa?"
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Ver p\u00e1gina de"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "Painel"
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "modal Popup"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Nova janela \/ aba"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Sair + Ver"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "todos"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "% D mudan\u00e7a"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "% D altera\u00e7\u00f5es"
+        }
+    }
+}

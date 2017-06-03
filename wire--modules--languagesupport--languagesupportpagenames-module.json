@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Ativo?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "P\u00e1gina n\u00famero de prefixo para a pagina\u00e7\u00e3o"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "O n\u00famero da p\u00e1gina \u00e9 anexado a esta palavra em URLs paginados para este idioma. Se omitido, \"% s\" ser\u00e1 usado."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "Idioma Padr\u00e3o homepage URL \u00e9 a mesma URL raiz?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Escolha ** Sim ** se voc\u00ea quer a p\u00e1gina inicial do seu idioma padr\u00e3o a ser servido pela URL raiz ** \/ ** (recomendado). Escolha ** n\u00e3o ** se voc\u00ea quiser que o seu URL raiz para executar um redirecionamento para ** \/ nome \/ ** (onde \/ nome \/ \u00e9 o nome da sua p\u00e1gina inicial idioma padr\u00e3o)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Esta defini\u00e7\u00e3o s\u00f3 afeta o comportamento homepage. Se voc\u00ea selecionar N\u00e3o, voc\u00ea tamb\u00e9m deve certificar-se de sua p\u00e1gina inicial tem um nome definido para o idioma padr\u00e3o."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Sim - URL raiz serve homepage idioma padr\u00e3o (recomendado)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "N\u00e3o - URL raiz executa um redirecionamento para: \/ nome \/"
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "inputField Tipo"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "O tipo de campo que vai ser utilizado para a recolha de entrada (\u00e1rea de texto \u00e9 o padr\u00e3o). Note que se voc\u00ea mudar esta situa\u00e7\u00e3o e apresentar, as op\u00e7\u00f5es de configura\u00e7\u00e3o dispon\u00edveis na se\u00e7\u00e3o guia \"input\" pode mudar."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Markup \/ HTML"
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Tipo de conte\u00fado"
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Desconhecido \/ Texto"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "O [u] Markup \/ HTML [\/ u] op\u00e7\u00e3o \u00e9 recomendada para campos usando editores de texto rico (como CKEditor) e aqueles que cont\u00eam HTML. Ele fornece verifica\u00e7\u00f5es de tempo de execu\u00e7\u00e3o adicionais de filtragem para a garantia da qualidade."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Se voc\u00ea selecionar a op\u00e7\u00e3o [u] Desconhecido \/ Texto [\/ u], \u00e9 altamente recomend\u00e1vel [de seguran\u00e7a] que voc\u00ea tamb\u00e9m selecione a op\u00e7\u00e3o \"HTML Entity Encoder\" nas [u] Formatadores Campo de texto [\/ u] acima."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Para mais informa\u00e7\u00f5es sobre as op\u00e7\u00f5es acima ver [descri\u00e7\u00e3o das op\u00e7\u00f5es de tipo de conte\u00fado] (% s)."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "Op\u00e7\u00f5es HTML"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "As seguintes op\u00e7\u00f5es fornecer garantia de qualidade adicional para HTML em tempo de execu\u00e7\u00e3o."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "** Nota: ** Estas op\u00e7\u00f5es s\u00e3o atualmente experimental. Por favor olhe para quest\u00f5es e relatar quaisquer erros."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "As op\u00e7\u00f5es acima erros de log para Configura\u00e7\u00e3o> Registos> markup-qa-erros."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Fazer a liga\u00e7\u00e3o abstra\u00e7\u00e3o:"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Atualiza\u00e7\u00e3o href atributos automaticamente quando as liga\u00e7\u00f5es internas mudar"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "atributos imagem de atualiza\u00e7\u00e3o alt:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "atributos substituir alt em branco com descri\u00e7\u00e3o da imagem"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Fix imagens quebradas:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Remover tags img que resultariam em um 404, ou re-criar imagens quando poss\u00edvel"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "controle de acesso Image:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Remover imagens da marca\u00e7\u00e3o que usu\u00e1rio n\u00e3o tem acesso de visualiza\u00e7\u00e3o para"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Aplicar op\u00e7\u00f5es HTML Agora"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Para aplicar as op\u00e7\u00f5es acima de todas as p\u00e1ginas existentes agora, marque esta caixa. Esta concentra-se principalmente sobre a op\u00e7\u00e3o de link abstra\u00e7\u00e3o."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Aten\u00e7\u00e3o, este executa uma atualiza\u00e7\u00e3o atrav\u00e9s potencialmente centenas de p\u00e1ginas (m\u00e1ximo de 300 por corrida) e tempos de modifica\u00e7\u00e3o de p\u00e1gina de atualiza\u00e7\u00f5es. Se seu site tem um monte de p\u00e1ginas, voc\u00ea pode ter que executar isso v\u00e1rias vezes."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "** Como uma precau\u00e7\u00e3o extra \u00e9 recomend\u00e1vel que voc\u00ea fa\u00e7a backup de seu banco de dados antes de executar este. **"
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Parece que estamos a fazer! op\u00e7\u00f5es HTML est\u00e3o agora totalmente aplicado."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "futuras atualiza\u00e7\u00f5es ser\u00e3o aplicadas automaticamente quando cada p\u00e1gina \u00e9 salva."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "H\u00e1 ainda mais p\u00e1ginas para aplicar. Marque a caixa novamente para aplicar p\u00e1ginas restantes."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "Precisa aplicar mais p\u00e1ginas de cada vez? Voc\u00ea pode adicionar defini\u00e7\u00e3o% s ao seu arquivo \/site\/config.php."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(Ver log% s)"
+        },
+        "91032d1254768e880dbbeede54e35a79": {
+            "text": "% D locais a [href] tags', '-tipo de link"
+        },
+        "5fcef18456ba78863a5a57e162279d2d": {
+            "text": "% D img locais [src] tags', '-tipo de link"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "Atualizado% 1 $ d de% 2 $ d p\u00e1ginas de op\u00e7\u00f5es HTML."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Markup \/ HTML resumo de garantia de qualidade:"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Outras op\u00e7\u00f5es HTML s\u00e3o aplicados em tempo de execu\u00e7\u00e3o."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "% D externo um [href] tags"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "% links de p\u00e1ginas d internos \/ abstratas"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "refer\u00eancias de arquivo \/ ativos% d"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "% D em rela\u00e7\u00e3o a [href] tags atualizadas"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "% D locais a [href] non-page \/ tags n\u00e3o reconhecidas"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "% D n\u00e3o http um [href] como mailto, tel, etc."
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "% D n\u00e3o resolvido um [href] tags"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "% D n\u00e3o resolvido img [src] tags"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "% D n\u00e3o resolvido e fixa img [src] tags"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "% Img branco d [ALT] tags a ser preenchido no tempo de execu\u00e7\u00e3o"
+        }
+    }
+}

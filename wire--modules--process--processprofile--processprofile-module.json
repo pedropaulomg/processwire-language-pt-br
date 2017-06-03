@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Perfil:"
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Perfil n\u00e3o salvo"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "endere\u00e7o de e-mail \"% s\" j\u00e1 em uso por outro usu\u00e1rio."
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Perfil salvo"
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "O que campos pode um usu\u00e1rio editar em seu pr\u00f3prio perfil?"
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Perfil de usu\u00e1rio"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Permite ao usu\u00e1rio alterar sua senha, endere\u00e7o de e-mail e outras configura\u00e7\u00f5es que voc\u00ea define."
+        }
+    }
+}

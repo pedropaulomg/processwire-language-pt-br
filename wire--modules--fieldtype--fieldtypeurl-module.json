@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "sim"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "N\u00e3o"
+        },
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "O \"HTML Entity Encoder\" formatador de texto \u00e9 recomendado para campos de URL."
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Se este URL ser\u00e1 usado para qualquer sa\u00edda, \u00e9 altamente recomend\u00e1vel que voc\u00ea selecione a op\u00e7\u00e3o \"HTML Entity Encoder\" para \"formatadores de texto\", na guia Detalhes."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Permitir URLs relativos \/ locais sem \"http: \/\/\" no in\u00edcio?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "URLs locais \/ relativos s\u00e3o aqueles sem esquema e dom\u00ednio."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Permitem nomes de dom\u00ednio internacionalizados (IDNs)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Quando ativado, s\u00e3o permitidos nomes de dom\u00ednio n\u00e3o-ASCII."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Permitir caracteres de aspas simples \/ duplas em URLs?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Quando ativado, voc\u00ea deve estar absolutamente certos essas URLs est\u00e3o entidade codificado quando usado na marca\u00e7\u00e3o."
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "caminho raiz site preceder a URLs locais \/ parente?"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Esta op\u00e7\u00e3o ir\u00e1 anteceder automaticamente caminho raiz do site para quaisquer URLs que come\u00e7am com uma barra, como \/ some \/ path \/. Isso \u00e9 \u00fatil se o seu site est\u00e1 sendo executado a partir de um subdiret\u00f3rio, porque voc\u00ea n\u00e3o ter\u00e1 que incluir esse subdiret\u00f3rio nas URLs que voc\u00ea digita nesse campo. voc\u00ea deve mais tarde mover seu site para a raiz de um dom\u00ednio (ou outro subdiret\u00f3rio), voc\u00ea n\u00e3o ter\u00e1 que se preocupar URLs sobre quebrados. Com essa op\u00e7\u00e3o ativada, sempre entrar URLs como se o site estava executando a partir da raiz de um dom\u00ednio, independentemente de ele est\u00e1 correndo de um subdiret\u00f3rio ou n\u00e3o. Naturalmente, este \u00e9 aplic\u00e1vel somente se voc\u00ea tiver selecionado 'Sim' para permitir que URLs locais \/ parente no campo acima. Os desenvolvedores tamb\u00e9m podem querer notar que esta op\u00e7\u00e3o se aplica somente quando outputFormatting de uma p\u00e1gina est\u00e1 ligado."
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Garante que URLs n\u00e3o s\u00e3o quebrados quando se deslocam de um site a partir de um subdiret\u00f3rio para root (o exemplo mais comum)."
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "URL"
+        },
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "O campo que armazena uma URL"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Colunas de caixas de sele\u00e7\u00e3o"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Se voc\u00ea quiser as caixas de sele\u00e7\u00e3o para exibir em colunas (em vez de empilhados), digite o n\u00famero de colunas que voc\u00ea deseja usar (at\u00e9 10). Para exibir caixas lado-a-lado (in-line) introduzir um."
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "checkboxes"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "V\u00e1rios alterna checkbox"
+        }
+    }
+}

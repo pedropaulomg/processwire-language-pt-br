@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "confirme"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "O email"
+        },
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Por favor insira um endere\u00e7o de e-mail v\u00e1lido"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "Os e-mails que voc\u00ea digitou n\u00e3o corresponde, deve inserir novamente"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Confirme o endere\u00e7o de e-mail?"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Quando marcada, duas entradas de e-mail aparecer\u00e1 eo usu\u00e1rio ter\u00e1 que digitar o seu endere\u00e7o de e-mail duas vezes para confirm\u00e1-la. Isso ajuda a reduzir a possibilidade de erros de digita\u00e7\u00e3o."
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "O email"
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "Endere\u00e7o de E-Mail num formato v\u00e1lido"
+        }
+    }
+}

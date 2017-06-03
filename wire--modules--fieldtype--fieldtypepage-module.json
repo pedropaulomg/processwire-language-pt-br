@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Contagem"
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "V\u00e1rias p\u00e1ginas (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "\u00danica p\u00e1gina (P\u00e1gina) ou boolean falsa quando nenhum selecionado"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "\u00danica p\u00e1gina (P\u00e1gina) ou p\u00e1gina vazia (NullPage) quando nenhum selecionado"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "P\u00e1gina Tipo de valor do campo"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Se o seu campo ir\u00e1 conter v\u00e1rias p\u00e1ginas, ent\u00e3o voc\u00ea deve selecionar a primeira op\u00e7\u00e3o (PageArray). Se o seu campo s\u00f3 precisa conter uma \u00fanica p\u00e1gina, em seguida, selecione uma das op\u00e7\u00f5es \u00fanica p\u00e1gina (se voc\u00ea n\u00e3o tem certeza qual, selecione a \u00faltima op\u00e7\u00e3o)."
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "exemplos de utiliza\u00e7\u00e3o API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "O mesmo que acima com sintaxe alternativa"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Mais informa\u00e7\u00f5es sobre o m\u00e9todo% s."
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Permitir p\u00e1ginas in\u00e9ditas?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Quando marcado, p\u00e1ginas in\u00e9ditas s\u00e3o permitidos no valor do campo. p\u00e1ginas in\u00e9ditas n\u00e3o aparecer\u00e1 no front-end, a n\u00e3o ser para aqueles com acesso de edi\u00e7\u00e3o."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Incapaz de encontrar a p\u00e1gina"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Incapaz de encontrar o modelo"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Localizar e limpar refer\u00eancias de p\u00e1ginas \u00f3rf\u00e3s"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Isso limpa para um problema em vers\u00f5es mais antigas do ProcessWire que poderia deixar \u00f3rf\u00e3s refer\u00eancias de p\u00e1gina para p\u00e1ginas eliminadas. Se voc\u00ea est\u00e1 recebendo resultados imprecisos da p\u00e1gina encontrar as opera\u00e7\u00f5es (especialmente com seletores usando pageref.count), ent\u00e3o voc\u00ea pode querer executar este."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Aviso: Para ser seguro, voc\u00ea deve back-up seu banco de dados antes de executar este."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Encontrar e limpeza ..."
+        }
+    }
+}

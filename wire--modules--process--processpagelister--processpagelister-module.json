@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "7ffc4d510260a8544e5550e62ec56bc1": {
+            "text": "rel"
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Em branco"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Criada"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "modificada"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Publicados"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "Mod por"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Criado por"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Modelo"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "estado"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "parente"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Num Crian\u00e7as"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Escondido"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "in\u00e9dito"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "trancado"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Lixo"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "marcador n\u00e3o reconhecido ou marcador n\u00e3o est\u00e1 mais ativo"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "filtros"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Adicionar Filtro"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "colunas padr\u00e3o"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Selecionar e classificar as colunas que ser\u00e3o exibidas na tabela da lista de p\u00e1ginas."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "O utilizador pode, opcionalmente, alterar as colunas que s\u00e3o mostrados, de forma que estes s\u00f3 vai servir como padr\u00e3o."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "As altera\u00e7\u00f5es que fizer aqui deve ser imediatamente refletidas nos resultados abaixo."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "O que colunas para mostrar nos resultados"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Que p\u00e1ginas para mostrar"
+        },
+        "3361493ce22b609b5d11f463c8bd8c6a": {
+            "text": "Especificada 'incluem =' modo n\u00e3o \u00e9 permitido aqui."
+        },
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "Nem todos os modelos especificados s\u00e3o edit\u00e1veis. Apenas 'include = oculto' \u00e9 permitido"
+        },
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "N\u00e3o h\u00e1 modelos especificados so 'include = oculto' \u00e9 m\u00e1ximo permitido modo incluem"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "% 1 $ d a% 2 $ d de 3% $ d"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Sem resultados."
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "selecionado"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Todas as configura\u00e7\u00f5es foram redefinidas."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar novo"
+        },
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "resultados de atualiza\u00e7\u00e3o"
+        },
+        "d77a4f65dfe38bdbb76371048e3ae9ea": {
+            "text": "Redefinir filtros e colunas para o padr\u00e3o"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Favoritos"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "colunas"
+        }
+    }
+}

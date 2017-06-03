@@ -1,0 +1,84 @@
+{
+    "file": "wire\/core\/Modules.php",
+    "textdomain": "wire--core--modules-php",
+    "translations": {
+        "0a6712f704d759c81cdc4416397e7faf": {
+            "text": "Falha para construir m\u00f3dulo:% s"
+        },
+        "7f5ebaf3241ff21764054580a96a3b11": {
+            "text": "Falha ao m\u00f3dulo de init:% s"
+        },
+        "dc3b5200f4c5fe1739b1bb1946ed22c1": {
+            "text": "Falha ao m\u00f3dulo pronto:% s"
+        },
+        "3919fe955716c54c409b522a1003f3e0": {
+            "text": "Voc\u00ea n\u00e3o tem permiss\u00e3o para executar este m\u00f3dulo"
+        },
+        "de7a358da1292f56861c726d3c860dc0": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel instalar m\u00f3dulo necess\u00e1rio"
+        },
+        "7ac5a75a8a79dc9b9e8d40dbed9c4124": {
+            "text": "M\u00f3dulo% s requer:% s"
+        },
+        "dc3fd488f03d423a04da27ce66274c1b": {
+            "text": "Aten\u00e7\u00e3o!"
+        },
+        "1f8ef8340fd2af55ecdf88e4a9ea3d8e": {
+            "text": "M\u00f3dulo detectou um erro durante a instala\u00e7\u00e3o"
+        },
+        "46e2d06b80d816b2916f1f27492fbabd": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel instalar o m\u00f3dulo"
+        },
+        "8fbd3d16ca5c99185a023c9b7e6bb3e9": {
+            "text": "Permiss\u00e3o Adicionado:% s"
+        },
+        "e349b4d55d1eb71f3b313924149aa242": {
+            "text": "Erro ao adicionar permiss\u00e3o:% s"
+        },
+        "d8b74ebbc7d2d9e0bb9860f5875e6a58": {
+            "text": "M\u00f3dulo Auto Install"
+        },
+        "5c4f3cc8a1cdcfa7759b4d0a199bcfa0": {
+            "text": "M\u00f3dulo n\u00e3o estiver instalado"
+        },
+        "8ffefc63396ecaf77fdcafe5163f2bfe": {
+            "text": "M\u00f3dulo \u00e9 permanente"
+        },
+        "926c4c5bf92909f4225cafbe323a1ea9": {
+            "text": "M\u00f3dulo \u00e9 necess\u00e1rio por outros m\u00f3dulos que devem ser removidos primeiro"
+        },
+        "d710b0151d568a1efa24617b78fa1f25": {
+            "text": "Este m\u00f3dulo \u00e9 uma FieldType atualmente em uso por um ou mais campos"
+        },
+        "2ccb0669e8a2f6a3117f340bb36e8d4b": {
+            "text": "M\u00f3dulo Auto Uninstall"
+        },
+        "37ab3f591b07274ff3b4c891af63e4d1": {
+            "text": "Permiss\u00e3o apagado:% s"
+        },
+        "7dd5a577bde82df3631263cfd04a07bb": {
+            "text": "Erro ao eliminar permiss\u00e3o:% s"
+        },
+        "141e30f2de96660020efd996cc916413": {
+            "text": "Falha m\u00f3dulo de depend\u00eancia:% s requer% s"
+        },
+        "f0116bd76230140a92cbd37cc524488e": {
+            "text": "vai ser aplicado na pr\u00f3xima vez que cada m\u00f3dulo \u00e9 carregado"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "m\u00f3dulo de atualiza\u00e7\u00e3o"
+        },
+        "edf71dd6396541cf37f54bf079e21006": {
+            "text": "Detectado% d novo m\u00f3dulo:% s"
+        },
+        "8d36abbc1aa8f167970999175380a355": {
+            "text": "Detectado% d novos m\u00f3dulos:% s"
+        },
+        "99cf7718c48f783d19e8c8b463a6e704": {
+            "text": "Detectados% d vers\u00e3o do m\u00f3dulo mudan\u00e7a"
+        },
+        "7cbf3b34133e54263a1242eb74a5008e": {
+            "text": "% altera\u00e7\u00f5es vers\u00e3o do m\u00f3dulo d detectados"
+        }
+    }
+}

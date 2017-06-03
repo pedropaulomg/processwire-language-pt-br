@@ -1,0 +1,135 @@
+{
+    "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
+    "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
+    "translations": {
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "aprovado"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Pendente"
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "Spam"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Excluir"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "N\u00e3o existem campos coment\u00e1rios instaladas"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Por favor, selecione um campo de coment\u00e1rios"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "No campo de coment\u00e1rios especificado no URL"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "campo n\u00e3o reconhecido"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "identidade"
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "Respostas"
+        },
+        "68c548ee5ab9808887460b7c74baac30": {
+            "text": "remova o filtro"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Apagado Coment\u00e1rio #% d"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "Atualizado coment\u00e1rio #% d"
+        },
+        "2eaf1946befd8d1cec85046ac88324e3": {
+            "text": "Y \/ m \/ d g: i um"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "editar"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "estado"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Encontro"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Citar"
+        },
+        "4dfbb099eafd3c82e033bf92946d3ce6": {
+            "text": "Enviar"
+        },
+        "c6e190b284633c48e39e55049da3cce8": {
+            "text": "Rede"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "estrelas"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "votos"
+        },
+        "f42d9d8fbfa2f6929ac7ee0d2e2871c5": {
+            "text": "Em resposta a% s"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Definir status:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "por p\u00e1gina"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Marcar \/ desmarcar todos"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "N\u00e3o h\u00e1 itens verificados"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "A\u00e7\u00f5es (itens marcados)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Reset: Upvotes"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Reset: downvotes"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Data (novo-velho)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Data (old-novo)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Estrelas (alto-baixo)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Estrelas (baixo-alto)"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "upvotes"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "downvotes"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Ordenar:"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Voc\u00ea tem altera\u00e7\u00f5es n\u00e3o salvas!"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Todos"
+        },
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "de% d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Nenhum para exibir"
+        },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "% D resposta"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "% D respostas"
+        }
+    }
+}

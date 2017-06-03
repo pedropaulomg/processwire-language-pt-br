@@ -1,0 +1,24 @@
+{
+    "file": "wire\/core\/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "host HTTP n\u00e3o reconhecido:"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "Por favor, atualize o seu $ config-> httpHosts pondo em \/site\/config.php"
+        },
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "consulte Mais informa\u00e7\u00e3o"
+        },
+        "c0e293a452a1d7be53a199d8b0a387bd": {
+            "text": "Modo de depura\u00e7\u00e3o Backtrace"
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Esta p\u00e1gina n\u00e3o tem nenhum processo atribu\u00eddo."
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "O processo retornou nenhum conte\u00fado."
+        }
+    }
+}

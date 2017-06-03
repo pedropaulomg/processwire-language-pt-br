@@ -1,0 +1,159 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "campo repetidor \"% s\" tem um \"apenas se necess\u00e1rio\" configura\u00e7\u00e3o depend\u00eancia, e isso n\u00e3o \u00e9 suportado no repetidores."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Por favor, adicionar campos a este repetidor a partir da guia \"Detalhes\"."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Defina os campos que s\u00e3o usados \u200b\u200bpor este repetidor. Voc\u00ea tamb\u00e9m pode arrastar e soltar campos para o fim desejado."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Adicionar campo"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "r\u00f3tulos de item repetidor"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Digite o nome do campo a ser usado para r\u00f3tulos repetidoras no editor de p\u00e1gina, ou deixe em branco para gerar automaticamente."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Para usar v\u00e1rios campos, ou para especificar sua pr\u00f3pria cadeia de formato, cercar nomes de campo {} colchetes."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Para incluir um n\u00famero de \u00edndice repetidor com cada etiqueta, adicione \"# n\" em algum lugar em sua cadeia de formato."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Exemplo: #n: {} t\u00edtulo"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Rotular para adicionar novo item"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Digite o r\u00f3tulo que voc\u00ea deseja usar para o \"Add New Item\" text \/ bot\u00e3o, ou deixe em branco para o padr\u00e3o."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "visibilidade item de repetidor no editor"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "itens repetidor pode ser aberta ou recolhida (o que exige um clique para abrir). modo de colapso \u00e9 mais conveniente para triagem e vendo todos os seus itens juntos."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Novos itens abertos, os itens existentes em colapso (recomendado para a maioria dos casos)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Itens sempre aberta (desativa o carregamento din\u00e2mico para itens existentes)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Itens sempre entrou em colapso"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "carga din\u00e2mica repetidor (AJAX) em editor"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Quais os itens que devem ser carregados dinamicamente com AJAX no editor de p\u00e1gina? Se voc\u00ea encontrar sua repetidora usa um campo que n\u00e3o funciona com o carregamento din\u00e2mico, pode ser necess\u00e1rio para desativar esse recurso."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Existentes e novos itens (recomendado, especialmente para repetidores que pode ter lotes de itens)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Novos itens somente (bom para repetidores que ter\u00e3o itens apenas alguns)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Fora"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Lembre-se que os itens do repetidor est\u00e3o abertos?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "Quando marcada, itens repetidor abertos permanecem abertos depois de salvar ou recarregar a partir do editor de p\u00e1ginas (a menos que o usu\u00e1rio fecha-los)."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Use o modo de acorde\u00e3o?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "Quando marcada, apenas um item repetidor ser\u00e1 aberto ao mesmo tempo."
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "O n\u00famero m\u00e1ximo de itens"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Se voc\u00ea precisa limitar o n\u00famero de itens permitidos, digite o limite aqui (0 = sem limite)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "n\u00famero m\u00ednimo de itens"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Esta quantidade de \u00edtens ser\u00e1 sempre aberto e pronto para editar (0 = no m\u00ednimo)."
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "profundidade do item"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Para apoiar itens com profundidade, entre a profundidade m\u00e1xima permitida, ou deixe em branco para desabilitar."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Ao editar um repetidor, voc\u00ea pode alterar a profundidade item clicando nas setas arrastar itens repetidor e arrastando o direito item ou para a esquerda."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Profundidades s\u00e3o \u00e0 base de zero, ou seja, uma profundidade de 3 permite profundidades 0, 1, 2 e 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Profundidade pode ser acessada a partir de um item de p\u00e1gina repetidor via `$ item-> depth`."
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Eliminar itens Old Repeater \/ n\u00e3o utilizados?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "H\u00e1 antiga artigo **% d ** \/ n\u00e3o utilizado repetidor (s), marque esta caixa para exclu\u00ed-los."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Um item de repetidor \u00e9 considerado velho se \u00e9 pelo menos 3 dias e ainda n\u00e3o foram preenchidos ou publicados."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Itens Max Repetidor"
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "O n\u00famero m\u00e1ximo de itens repetidor permitido."
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "Se definido como 0, n\u00e3o haver\u00e1 limite m\u00e1ximo."
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Se definido como 1, este campo ir\u00e1 funcionar como um \u00fanico item [p\u00e1gina], em vez de v\u00e1rios itens [PageArray]."
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "Note que quando outputFormatting estiver desligado, ele sempre vai se comportar como um PageArray independentemente da configura\u00e7\u00e3o aqui."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Tipo repetidor"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Quando 'ligado' o repetidor ir\u00e1 gerir a sua pr\u00f3pria p\u00e1gina de modelo e pai sem voc\u00ea ter que ver ou pensar sobre isso."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Quando de campo isolada voc\u00ea pode mover e modificar a p\u00e1gina pai repetidor e modelo como voc\u00ea v\u00ea o ajuste."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Note que uma vez destacada, ProcessWire n\u00e3o vai apagar o pai ou o modelo quando \/ se o campo \u00e9 exclu\u00eddo."
+        },
+        "1f8c0e21410e1c136bf780fc141b35ae": {
+            "text": "Adicionado campo \"% 1 $ S\" para repetidor \"% 2 $ s\""
+        },
+        "f54c2540ded6390c6328b2838850482d": {
+            "text": "Removido campo \"% 1 $ S\" do Repetidor \"% 2 $ s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "Exclu\u00eddos% d velho produto \/ repetidor n\u00e3o utilizado (s)"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "Pai p\u00e1gina% s foi separado e pode ser movido ou modificado."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "campos repetidor"
+        }
+    }
+}

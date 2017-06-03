@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "cache de p\u00e1gina expirada para todo o site"
+        },
+        "b091c65f589c970f6084669796efb995": {
+            "text": "Apuradas arquivo de cache:% s"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Apuradas arquivo de cache:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "arquivo de cache liberado para% d p\u00e1gina (s)"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "arquivos de cache% d liberado para p\u00e1ginas% d"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Desmarque a p\u00e1gina de renderiza\u00e7\u00e3o cache de disco?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Atualmente% d p\u00e1ginas em cache em% s"
+        },
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "p\u00e1gina de renderiza\u00e7\u00e3o"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Adiciona um m\u00e9todo render \u00e0 p\u00e1gina e caches p\u00e1gina de sa\u00edda."
+        }
+    }
+}
